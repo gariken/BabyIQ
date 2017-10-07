@@ -10,8 +10,12 @@ import UIKit
 
 class twoViewController: UIViewController {
     
+    @IBAction func Letters(_ sender: Any) {
+        theData(tData: Sections().bukvy)
+    }
+    
     @IBAction func colorsButton(_ sender: Any) {
-       //theData(tData: Sections().color)
+       theData(tData: Sections().color)
     }
     
     @IBAction func numbers(_ sender: Any) {
@@ -19,14 +23,15 @@ class twoViewController: UIViewController {
     }
     
     @IBAction func geometry(_ sender: Any) {
-    
+        theData(tData: Sections().figures)
     }
     
     @IBAction func transport(_ sender: Any) {
-        
+        theData(tData: Sections().transport)
     }
     
     @IBAction func house(_ sender: Any) {
+        theData(tData: Sections().house)
     }
     
     @IBAction func vegetables(_ sender: Any) {

@@ -228,11 +228,14 @@
                                 <rect key="frame" x="40" y="218" width="100" height="100"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" backgroundImage="Буквы"/>
+                                <connections>
+                                    <action selector="Letters:" destination="OW3-2h-Eds" eventType="touchUpInside" id="yxr-Nt-Ck9"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MWS-Z7-tn3">
                                 <rect key="frame" x="41" y="367" width="100" height="100"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="транспортные средства.png"/>
+                                <state key="normal" backgroundImage="транспортные средства"/>
                                 <connections>
                                     <action selector="transport:" destination="OW3-2h-Eds" eventType="touchUpInside" id="YjA-ed-h6X"/>
                                 </connections>
@@ -374,8 +377,9 @@
                                             <rect key="frame" x="0.0" y="0.0" width="165" height="132"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Vr5-Hp-31U" customClass="CustomView" customModule="game" customModuleProvider="target">
-                                                    <rect key="frame" x="0.0" y="0.0" width="171" height="132"/>
+                                                <view alpha="0.5" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Vr5-Hp-31U" customClass="CustomView" customModule="game" customModuleProvider="target">
+                                                    <rect key="frame" x="0.0" y="0.0" width="165" height="132"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <color key="backgroundColor" red="0.99989169836044312" green="1" blue="0.99988096952438354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <userDefinedRuntimeAttributes>
                                                         <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
@@ -383,25 +387,12 @@
                                                         </userDefinedRuntimeAttribute>
                                                     </userDefinedRuntimeAttributes>
                                                 </view>
-                                                <imageView autoresizesSubviews="NO" opaque="NO" clearsContextBeforeDrawing="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="lbp-GW-F55">
+                                                <imageView autoresizesSubviews="NO" opaque="NO" clearsContextBeforeDrawing="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lbp-GW-F55">
                                                     <rect key="frame" x="36" y="16" width="100" height="100"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="height" constant="100" id="CuZ-Ax-U9q"/>
-                                                        <constraint firstAttribute="width" constant="100" id="oPg-QB-4Un"/>
-                                                    </constraints>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </imageView>
                                             </subviews>
                                         </view>
-                                        <constraints>
-                                            <constraint firstItem="Vr5-Hp-31U" firstAttribute="top" secondItem="dFp-F0-2j0" secondAttribute="top" id="4Mm-p7-RYr"/>
-                                            <constraint firstAttribute="trailingMargin" secondItem="Vr5-Hp-31U" secondAttribute="trailing" constant="-6" id="9cv-2L-Zay"/>
-                                            <constraint firstItem="Vr5-Hp-31U" firstAttribute="centerY" secondItem="dFp-F0-2j0" secondAttribute="centerY" id="C3y-wd-QUV"/>
-                                            <constraint firstItem="Vr5-Hp-31U" firstAttribute="centerX" secondItem="dFp-F0-2j0" secondAttribute="centerX" id="Ddz-aQ-eSo"/>
-                                            <constraint firstItem="Vr5-Hp-31U" firstAttribute="leading" secondItem="dFp-F0-2j0" secondAttribute="leading" id="XYJ-SL-YWa"/>
-                                            <constraint firstAttribute="bottom" secondItem="Vr5-Hp-31U" secondAttribute="bottom" id="iOT-cw-rr4"/>
-                                            <constraint firstItem="lbp-GW-F55" firstAttribute="centerX" secondItem="Vr5-Hp-31U" secondAttribute="centerX" id="q8G-K2-29j"/>
-                                            <constraint firstItem="lbp-GW-F55" firstAttribute="centerY" secondItem="Vr5-Hp-31U" secondAttribute="centerY" id="xfg-dy-sGu"/>
-                                        </constraints>
                                         <size key="customSize" width="165" height="132"/>
                                         <connections>
                                             <outlet property="imageCollection" destination="lbp-GW-F55" id="QWO-bd-9hs"/>
@@ -502,7 +493,7 @@
         <image name="овощи" width="119" height="119"/>
         <image name="одежда" width="104" height="105"/>
         <image name="профессии" width="104" height="104"/>
-        <image name="транспортные средства.png" width="119" height="119"/>
+        <image name="транспортные средства" width="119" height="119"/>
         <image name="угадай" width="319" height="86"/>
         <image name="фрукты" width="119" height="119"/>
         <image name="цвета" width="119" height="119"/>

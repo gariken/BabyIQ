@@ -10,7 +10,7 @@ import UIKit
 
 class collectionViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource {
     
-    var destination : [String] = [""]
+    var destination : [String] = []
     var destinationPhoto : [String] = []
 
     @IBOutlet weak var collectionView: UICollectionView!
@@ -49,8 +49,9 @@ class collectionViewController: UIViewController, UICollectionViewDelegate, UICo
                 headerView.arrowBack.addTarget(self, action: #selector(collectionViewController.backs), for: .touchUpInside)
                 return headerView
         default:
-            assert(false, "Unexpected element kind")
+            fatalError("Unexpected element kind")
         }
+        
     }
     
     func dataPhoto(tDataPhoto: String){

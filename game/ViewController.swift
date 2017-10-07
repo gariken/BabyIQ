@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import AVFoundation
+import StoreKit
+
 
 class ViewController: UIViewController {
     
     @IBAction func Animals(_ sender: Any) {
-        
+         theData(tData: Sections().animals)
     }
 
     @IBAction func vegetables(_ sender: Any) {
@@ -27,11 +30,11 @@ class ViewController: UIViewController {
     }
     
     @IBAction func clothes(_ sender: Any) {
-        
+        theData(tData: Sections().clothes)
     }
     
     @IBAction func profession(_ sender: Any) {
-        
+        theData(tData: Sections().proffesions)
     }
     
     func theData(tData : [String]){
@@ -43,6 +46,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
+    
+   
 
     
 
