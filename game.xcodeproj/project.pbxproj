@@ -7,6 +7,242 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F1418C81F8CB92F004FB321 /* а_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D01F8CB92E004FB321 /* а_1.mp3 */; };
+		1F1418C91F8CB92F004FB321 /* б_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D11F8CB92E004FB321 /* б_1.mp3 */; };
+		1F1418CA1F8CB92F004FB321 /* в_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D21F8CB92E004FB321 /* в_1.mp3 */; };
+		1F1418CB1F8CB92F004FB321 /* г_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D31F8CB92E004FB321 /* г_1.mp3 */; };
+		1F1418CC1F8CB92F004FB321 /* д_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D41F8CB92E004FB321 /* д_1.mp3 */; };
+		1F1418CD1F8CB92F004FB321 /* е_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D51F8CB92E004FB321 /* е_1.mp3 */; };
+		1F1418CE1F8CB92F004FB321 /* ё-1_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D61F8CB92E004FB321 /* ё-1_1.mp3 */; };
+		1F1418CF1F8CB92F004FB321 /* ж_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D71F8CB92E004FB321 /* ж_1.mp3 */; };
+		1F1418D01F8CB92F004FB321 /* з_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D81F8CB92E004FB321 /* з_1.mp3 */; };
+		1F1418D11F8CB92F004FB321 /* и_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417D91F8CB92E004FB321 /* и_1.mp3 */; };
+		1F1418D21F8CB92F004FB321 /* й-1_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417DA1F8CB92E004FB321 /* й-1_1.mp3 */; };
+		1F1418D31F8CB92F004FB321 /* к_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417DB1F8CB92E004FB321 /* к_1.mp3 */; };
+		1F1418D41F8CB92F004FB321 /* л_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417DC1F8CB92E004FB321 /* л_1.mp3 */; };
+		1F1418D51F8CB92F004FB321 /* м_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417DD1F8CB92E004FB321 /* м_1.mp3 */; };
+		1F1418D61F8CB92F004FB321 /* н_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417DE1F8CB92E004FB321 /* н_1.mp3 */; };
+		1F1418D71F8CB92F004FB321 /* о_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417DF1F8CB92E004FB321 /* о_1.mp3 */; };
+		1F1418D81F8CB92F004FB321 /* п_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E01F8CB92E004FB321 /* п_1.mp3 */; };
+		1F1418D91F8CB92F004FB321 /* р_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E11F8CB92E004FB321 /* р_1.mp3 */; };
+		1F1418DA1F8CB92F004FB321 /* с_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E21F8CB92E004FB321 /* с_1.mp3 */; };
+		1F1418DB1F8CB92F004FB321 /* т_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E31F8CB92E004FB321 /* т_1.mp3 */; };
+		1F1418DC1F8CB92F004FB321 /* у_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E41F8CB92E004FB321 /* у_1.mp3 */; };
+		1F1418DD1F8CB92F004FB321 /* ф_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E51F8CB92E004FB321 /* ф_1.mp3 */; };
+		1F1418DE1F8CB92F004FB321 /* х_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E61F8CB92E004FB321 /* х_1.mp3 */; };
+		1F1418DF1F8CB92F004FB321 /* ц_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E71F8CB92E004FB321 /* ц_1.mp3 */; };
+		1F1418E01F8CB92F004FB321 /* ч_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E81F8CB92E004FB321 /* ч_1.mp3 */; };
+		1F1418E11F8CB92F004FB321 /* ш_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417E91F8CB92E004FB321 /* ш_1.mp3 */; };
+		1F1418E21F8CB92F004FB321 /* щ_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417EA1F8CB92E004FB321 /* щ_1.mp3 */; };
+		1F1418E31F8CB92F004FB321 /* ъ_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417EB1F8CB92E004FB321 /* ъ_1.mp3 */; };
+		1F1418E41F8CB92F004FB321 /* ы_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417EC1F8CB92E004FB321 /* ы_1.mp3 */; };
+		1F1418E51F8CB92F004FB321 /* ь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417ED1F8CB92E004FB321 /* ь_1.mp3 */; };
+		1F1418E61F8CB92F004FB321 /* э_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417EE1F8CB92E004FB321 /* э_1.mp3 */; };
+		1F1418E71F8CB92F004FB321 /* ю_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417EF1F8CB92E004FB321 /* ю_1.mp3 */; };
+		1F1418E81F8CB92F004FB321 /* я_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F01F8CB92E004FB321 /* я_1.mp3 */; };
+		1F1418E91F8CB92F004FB321 /* акула_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F21F8CB92E004FB321 /* акула_1.mp3 */; };
+		1F1418EA1F8CB92F004FB321 /* бегемот_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F31F8CB92E004FB321 /* бегемот_1.mp3 */; };
+		1F1418EB1F8CB92F004FB321 /* верблюд_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F41F8CB92E004FB321 /* верблюд_1.mp3 */; };
+		1F1418EC1F8CB92F004FB321 /* дельфин_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F51F8CB92E004FB321 /* дельфин_1.mp3 */; };
+		1F1418ED1F8CB92F004FB321 /* ежик_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F61F8CB92E004FB321 /* ежик_1.mp3 */; };
+		1F1418EE1F8CB92F004FB321 /* жираф_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F71F8CB92E004FB321 /* жираф_1.mp3 */; };
+		1F1418EF1F8CB92F004FB321 /* заяц_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F81F8CB92E004FB321 /* заяц_1.mp3 */; };
+		1F1418F01F8CB92F004FB321 /* зебра_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417F91F8CB92E004FB321 /* зебра_1.mp3 */; };
+		1F1418F11F8CB92F004FB321 /* кит_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417FA1F8CB92E004FB321 /* кит_1.mp3 */; };
+		1F1418F21F8CB92F004FB321 /* козел_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417FB1F8CB92E004FB321 /* козел_1.mp3 */; };
+		1F1418F31F8CB92F004FB321 /* корова_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417FC1F8CB92E004FB321 /* корова_1.mp3 */; };
+		1F1418F41F8CB92F004FB321 /* кошка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417FD1F8CB92E004FB321 /* кошка_1.mp3 */; };
+		1F1418F51F8CB92F004FB321 /* крокодил_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417FE1F8CB92E004FB321 /* крокодил_1.mp3 */; };
+		1F1418F61F8CB92F004FB321 /* курица_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1417FF1F8CB92E004FB321 /* курица_1.mp3 */; };
+		1F1418F71F8CB92F004FB321 /* лев_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418001F8CB92E004FB321 /* лев_1.mp3 */; };
+		1F1418F81F8CB92F004FB321 /* леопард_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418011F8CB92E004FB321 /* леопард_1.mp3 */; };
+		1F1418F91F8CB92F004FB321 /* лиса_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418021F8CB92E004FB321 /* лиса_1.mp3 */; };
+		1F1418FA1F8CB92F004FB321 /* лошадь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418031F8CB92E004FB321 /* лошадь_1.mp3 */; };
+		1F1418FB1F8CB92F004FB321 /* лягушка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418041F8CB92E004FB321 /* лягушка_1.mp3 */; };
+		1F1418FC1F8CB92F004FB321 /* медведь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418051F8CB92E004FB321 /* медведь_1.mp3 */; };
+		1F1418FD1F8CB92F004FB321 /* мышь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418061F8CB92E004FB321 /* мышь_1.mp3 */; };
+		1F1418FE1F8CB92F004FB321 /* носорог_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418071F8CB92E004FB321 /* носорог_1.mp3 */; };
+		1F1419001F8CB92F004FB321 /* овца_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418091F8CB92E004FB321 /* овца_1.mp3 */; };
+		1F1419011F8CB92F004FB321 /* олень_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14180A1F8CB92E004FB321 /* олень_1.mp3 */; };
+		1F1419021F8CB92F004FB321 /* панда_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14180B1F8CB92E004FB321 /* панда_1.mp3 */; };
+		1F1419031F8CB92F004FB321 /* петух_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14180C1F8CB92E004FB321 /* петух_1.mp3 */; };
+		1F1419041F8CB92F004FB321 /* пингвин_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14180D1F8CB92E004FB321 /* пингвин_1.mp3 */; };
+		1F1419051F8CB92F004FB321 /* попугай_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14180E1F8CB92E004FB321 /* попугай_1.mp3 */; };
+		1F1419061F8CB92F004FB321 /* птица_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14180F1F8CB92E004FB321 /* птица_1.mp3 */; };
+		1F1419071F8CB930004FB321 /* рыба_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418101F8CB92E004FB321 /* рыба_1.mp3 */; };
+		1F1419081F8CB930004FB321 /* свинья_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418111F8CB92E004FB321 /* свинья_1.mp3 */; };
+		1F1419091F8CB930004FB321 /* слон_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418121F8CB92E004FB321 /* слон_1.mp3 */; };
+		1F14190A1F8CB930004FB321 /* собака_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418131F8CB92E004FB321 /* собака_1.mp3 */; };
+		1F14190B1F8CB930004FB321 /* сова_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418141F8CB92E004FB321 /* сова_1.mp3 */; };
+		1F14190C1F8CB930004FB321 /* тигр_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418151F8CB92E004FB321 /* тигр_1.mp3 */; };
+		1F14190D1F8CB930004FB321 /* улитка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418161F8CB92E004FB321 /* улитка_1.mp3 */; };
+		1F14190E1F8CB930004FB321 /* утка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418171F8CB92E004FB321 /* утка_1.mp3 */; };
+		1F14190F1F8CB930004FB321 /* цыпленок_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418181F8CB92E004FB321 /* цыпленок_1.mp3 */; };
+		1F1419101F8CB930004FB321 /* черепаха_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418191F8CB92E004FB321 /* черепаха_1.mp3 */; };
+		1F1419111F8CB930004FB321 /* белый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14181B1F8CB92E004FB321 /* белый_1.mp3 */; };
+		1F1419121F8CB930004FB321 /* голубой_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14181C1F8CB92E004FB321 /* голубой_1.mp3 */; };
+		1F1419131F8CB930004FB321 /* желтый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14181D1F8CB92E004FB321 /* желтый_1.mp3 */; };
+		1F1419141F8CB930004FB321 /* зеленый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14181E1F8CB92E004FB321 /* зеленый_1.mp3 */; };
+		1F1419151F8CB930004FB321 /* коричневый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14181F1F8CB92E004FB321 /* коричневый_1.mp3 */; };
+		1F1419161F8CB930004FB321 /* красный_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418201F8CB92E004FB321 /* красный_1.mp3 */; };
+		1F1419171F8CB930004FB321 /* оранжевый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418211F8CB92E004FB321 /* оранжевый_1.mp3 */; };
+		1F1419181F8CB930004FB321 /* розовый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418221F8CB92F004FB321 /* розовый_1.mp3 */; };
+		1F1419191F8CB930004FB321 /* синий_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418231F8CB92F004FB321 /* синий_1.mp3 */; };
+		1F14191A1F8CB930004FB321 /* сиреневый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418241F8CB92F004FB321 /* сиреневый_1.mp3 */; };
+		1F14191B1F8CB930004FB321 /* черный_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418251F8CB92F004FB321 /* черный_1.mp3 */; };
+		1F14191C1F8CB930004FB321 /* звезда_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418271F8CB92F004FB321 /* звезда_1.mp3 */; };
+		1F14191D1F8CB930004FB321 /* квадрат_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418281F8CB92F004FB321 /* квадрат_1.mp3 */; };
+		1F14191E1F8CB930004FB321 /* круг_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418291F8CB92F004FB321 /* круг_1.mp3 */; };
+		1F14191F1F8CB930004FB321 /* овал_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14182A1F8CB92F004FB321 /* овал_1.mp3 */; };
+		1F1419201F8CB930004FB321 /* полукруг_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14182B1F8CB92F004FB321 /* полукруг_1.mp3 */; };
+		1F1419211F8CB930004FB321 /* прямоугольник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14182C1F8CB92F004FB321 /* прямоугольник_1.mp3 */; };
+		1F1419221F8CB930004FB321 /* ромб_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14182D1F8CB92F004FB321 /* ромб_1.mp3 */; };
+		1F1419231F8CB930004FB321 /* трапеция_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14182E1F8CB92F004FB321 /* трапеция_1.mp3 */; };
+		1F1419241F8CB930004FB321 /* треугольник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14182F1F8CB92F004FB321 /* треугольник_1.mp3 */; };
+		1F1419251F8CB930004FB321 /* баклажан_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418311F8CB92F004FB321 /* баклажан_1.mp3 */; };
+		1F1419261F8CB930004FB321 /* кабачок_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418321F8CB92F004FB321 /* кабачок_1.mp3 */; };
+		1F1419271F8CB930004FB321 /* капуста_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418331F8CB92F004FB321 /* капуста_1.mp3 */; };
+		1F1419281F8CB930004FB321 /* картофель_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418341F8CB92F004FB321 /* картофель_1.mp3 */; };
+		1F1419291F8CB930004FB321 /* кукуруза_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418351F8CB92F004FB321 /* кукуруза_1.mp3 */; };
+		1F14192A1F8CB930004FB321 /* лук_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418361F8CB92F004FB321 /* лук_1.mp3 */; };
+		1F14192B1F8CB930004FB321 /* морковь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418371F8CB92F004FB321 /* морковь_1.mp3 */; };
+		1F14192C1F8CB930004FB321 /* огурец_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418381F8CB92F004FB321 /* огурец_1.mp3 */; };
+		1F14192D1F8CB930004FB321 /* перец_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418391F8CB92F004FB321 /* перец_1.mp3 */; };
+		1F14192E1F8CB930004FB321 /* помидор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14183A1F8CB92F004FB321 /* помидор_1.mp3 */; };
+		1F14192F1F8CB930004FB321 /* репа_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14183B1F8CB92F004FB321 /* репа_1.mp3 */; };
+		1F1419301F8CB930004FB321 /* свекла_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14183C1F8CB92F004FB321 /* свекла_1.mp3 */; };
+		1F1419311F8CB930004FB321 /* тыква_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14183D1F8CB92F004FB321 /* тыква_1.mp3 */; };
+		1F1419321F8CB930004FB321 /* укроп_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14183E1F8CB92F004FB321 /* укроп_1.mp3 */; };
+		1F1419331F8CB930004FB321 /* 10_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418401F8CB92F004FB321 /* 10_1.mp3 */; };
+		1F1419341F8CB930004FB321 /* 1_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418411F8CB92F004FB321 /* 1_1.mp3 */; };
+		1F1419351F8CB930004FB321 /* 2_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418421F8CB92F004FB321 /* 2_1.mp3 */; };
+		1F1419361F8CB930004FB321 /* 3_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418431F8CB92F004FB321 /* 3_1.mp3 */; };
+		1F1419371F8CB930004FB321 /* 4_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418441F8CB92F004FB321 /* 4_1.mp3 */; };
+		1F1419381F8CB930004FB321 /* 5_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418451F8CB92F004FB321 /* 5_1.mp3 */; };
+		1F1419391F8CB930004FB321 /* 6_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418461F8CB92F004FB321 /* 6_1.mp3 */; };
+		1F14193A1F8CB930004FB321 /* 7_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418471F8CB92F004FB321 /* 7_1.mp3 */; };
+		1F14193B1F8CB930004FB321 /* 8_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418481F8CB92F004FB321 /* 8_1.mp3 */; };
+		1F14193C1F8CB930004FB321 /* 9_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418491F8CB92F004FB321 /* 9_1.mp3 */; };
+		1F14193D1F8CB930004FB321 /* бабочка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14184B1F8CB92F004FB321 /* бабочка_1.mp3 */; };
+		1F14193E1F8CB930004FB321 /* богомол_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14184C1F8CB92F004FB321 /* богомол_1.mp3 */; };
+		1F14193F1F8CB930004FB321 /* божья коровка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14184D1F8CB92F004FB321 /* божья коровка_1.mp3 */; };
+		1F1419401F8CB930004FB321 /* жук коллорадский_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14184E1F8CB92F004FB321 /* жук коллорадский_1.mp3 */; };
+		1F1419411F8CB930004FB321 /* комар_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14184F1F8CB92F004FB321 /* комар_1.mp3 */; };
+		1F1419421F8CB930004FB321 /* кузнечик_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418501F8CB92F004FB321 /* кузнечик_1.mp3 */; };
+		1F1419431F8CB930004FB321 /* муравей_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418511F8CB92F004FB321 /* муравей_1.mp3 */; };
+		1F1419441F8CB930004FB321 /* муха_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418521F8CB92F004FB321 /* муха_1.mp3 */; };
+		1F1419451F8CB930004FB321 /* пчела_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418531F8CB92F004FB321 /* пчела_1.mp3 */; };
+		1F1419461F8CB930004FB321 /* стрекоза_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418541F8CB92F004FB321 /* стрекоза_1.mp3 */; };
+		1F1419471F8CB930004FB321 /* таракан_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418551F8CB92F004FB321 /* таракан_1.mp3 */; };
+		1F1419481F8CB930004FB321 /* брюки_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418571F8CB92F004FB321 /* брюки_1.mp3 */; };
+		1F1419491F8CB930004FB321 /* варежки_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418581F8CB92F004FB321 /* варежки_1.mp3 */; };
+		1F14194A1F8CB930004FB321 /* доктор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418591F8CB92F004FB321 /* доктор_1.mp3 */; };
+		1F14194B1F8CB930004FB321 /* куртка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14185A1F8CB92F004FB321 /* куртка_1.mp3 */; };
+		1F14194C1F8CB930004FB321 /* майка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14185B1F8CB92F004FB321 /* майка_1.mp3 */; };
+		1F14194D1F8CB930004FB321 /* носки_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14185C1F8CB92F004FB321 /* носки_1.mp3 */; };
+		1F14194E1F8CB930004FB321 /* обувь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14185D1F8CB92F004FB321 /* обувь_1.mp3 */; };
+		1F14194F1F8CB930004FB321 /* платье_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14185E1F8CB92F004FB321 /* платье_1.mp3 */; };
+		1F1419501F8CB930004FB321 /* сапоги_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14185F1F8CB92F004FB321 /* сапоги_1.mp3 */; };
+		1F1419511F8CB930004FB321 /* свитер_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418601F8CB92F004FB321 /* свитер_1.mp3 */; };
+		1F1419521F8CB930004FB321 /* шапка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418611F8CB92F004FB321 /* шапка_1.mp3 */; };
+		1F1419531F8CB930004FB321 /* юбка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418621F8CB92F004FB321 /* юбка_1.mp3 */; };
+		1F1419541F8CB930004FB321 /* ванна_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418641F8CB92F004FB321 /* ванна_1.mp3 */; };
+		1F1419551F8CB930004FB321 /* вентилятор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418651F8CB92F004FB321 /* вентилятор_1.mp3 */; };
+		1F1419561F8CB930004FB321 /* вилка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418661F8CB92F004FB321 /* вилка_1.mp3 */; };
+		1F1419571F8CB930004FB321 /* дверь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418671F8CB92F004FB321 /* дверь_1.mp3 */; };
+		1F1419581F8CB930004FB321 /* диван_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418681F8CB92F004FB321 /* диван_1.mp3 */; };
+		1F1419591F8CB930004FB321 /* зонт_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418691F8CB92F004FB321 /* зонт_1.mp3 */; };
+		1F14195A1F8CB930004FB321 /* зубная щетка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14186A1F8CB92F004FB321 /* зубная щетка_1.mp3 */; };
+		1F14195B1F8CB930004FB321 /* кастрюля_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14186B1F8CB92F004FB321 /* кастрюля_1.mp3 */; };
+		1F14195C1F8CB930004FB321 /* компьютер_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14186C1F8CB92F004FB321 /* компьютер_1.mp3 */; };
+		1F14195D1F8CB930004FB321 /* кран_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14186D1F8CB92F004FB321 /* кран_1.mp3 */; };
+		1F14195E1F8CB930004FB321 /* кресло_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14186E1F8CB92F004FB321 /* кресло_1.mp3 */; };
+		1F14195F1F8CB930004FB321 /* кровать_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14186F1F8CB92F004FB321 /* кровать_1.mp3 */; };
+		1F1419601F8CB930004FB321 /* кружка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418701F8CB92F004FB321 /* кружка_1.mp3 */; };
+		1F1419611F8CB930004FB321 /* лампа_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418711F8CB92F004FB321 /* лампа_1.mp3 */; };
+		1F1419621F8CB930004FB321 /* ложка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418721F8CB92F004FB321 /* ложка_1.mp3 */; };
+		1F1419631F8CB930004FB321 /* микроволновая печь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418731F8CB92F004FB321 /* микроволновая печь_1.mp3 */; };
+		1F1419641F8CB930004FB321 /* миксер_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418741F8CB92F004FB321 /* миксер_1.mp3 */; };
+		1F1419651F8CB930004FB321 /* нож_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418751F8CB92F004FB321 /* нож_1.mp3 */; };
+		1F1419661F8CB930004FB321 /* ножницы_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418761F8CB92F004FB321 /* ножницы_1.mp3 */; };
+		1F1419671F8CB930004FB321 /* плита_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418771F8CB92F004FB321 /* плита_1.mp3 */; };
+		1F1419681F8CB930004FB321 /* поварешки_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418781F8CB92F004FB321 /* поварешки_1.mp3 */; };
+		1F1419691F8CB930004FB321 /* полотенца_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418791F8CB92F004FB321 /* полотенца_1.mp3 */; };
+		1F14196A1F8CB930004FB321 /* пылесос_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14187A1F8CB92F004FB321 /* пылесос_1.mp3 */; };
+		1F14196B1F8CB930004FB321 /* ручка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14187B1F8CB92F004FB321 /* ручка_1.mp3 */; };
+		1F14196C1F8CB930004FB321 /* сковорода_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14187C1F8CB92F004FB321 /* сковорода_1.mp3 */; };
+		1F14196D1F8CB930004FB321 /* стакан_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14187D1F8CB92F004FB321 /* стакан_1.mp3 */; };
+		1F14196E1F8CB930004FB321 /* стиральная машина_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14187E1F8CB92F004FB321 /* стиральная машина_1.mp3 */; };
+		1F14196F1F8CB930004FB321 /* стол_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14187F1F8CB92F004FB321 /* стол_1.mp3 */; };
+		1F1419701F8CB930004FB321 /* стул_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418801F8CB92F004FB321 /* стул_1.mp3 */; };
+		1F1419711F8CB930004FB321 /* тарелка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418811F8CB92F004FB321 /* тарелка_1.mp3 */; };
+		1F1419721F8CB930004FB321 /* телефон_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418821F8CB92F004FB321 /* телефон_1.mp3 */; };
+		1F1419731F8CB930004FB321 /* терка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418831F8CB92F004FB321 /* терка_1.mp3 */; };
+		1F1419741F8CB930004FB321 /* утюг_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418841F8CB92F004FB321 /* утюг_1.mp3 */; };
+		1F1419751F8CB930004FB321 /* фен_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418851F8CB92F004FB321 /* фен_1.mp3 */; };
+		1F1419761F8CB930004FB321 /* холодильник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418861F8CB92F004FB321 /* холодильник_1.mp3 */; };
+		1F1419771F8CB930004FB321 /* чайник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418871F8CB92F004FB321 /* чайник_1.mp3 */; };
+		1F1419781F8CB930004FB321 /* часы_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418881F8CB92F004FB321 /* часы_1.mp3 */; };
+		1F1419791F8CB930004FB321 /* аккордеон_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14188A1F8CB92F004FB321 /* аккордеон_1.mp3 */; };
+		1F14197A1F8CB930004FB321 /* арфа_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14188B1F8CB92F004FB321 /* арфа_1.mp3 */; };
+		1F14197B1F8CB930004FB321 /* балалайка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14188C1F8CB92F004FB321 /* балалайка_1.mp3 */; };
+		1F14197C1F8CB930004FB321 /* барабан_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14188D1F8CB92F004FB321 /* барабан_1.mp3 */; };
+		1F14197D1F8CB930004FB321 /* гитара_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14188E1F8CB92F004FB321 /* гитара_1.mp3 */; };
+		1F14197E1F8CB930004FB321 /* гусли_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14188F1F8CB92F004FB321 /* гусли_1.mp3 */; };
+		1F14197F1F8CB930004FB321 /* пианино_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418901F8CB92F004FB321 /* пианино_1.mp3 */; };
+		1F1419801F8CB930004FB321 /* саксофон_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418911F8CB92F004FB321 /* саксофон_1.mp3 */; };
+		1F1419811F8CB930004FB321 /* скрипка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418921F8CB92F004FB321 /* скрипка_1.mp3 */; };
+		1F1419821F8CB930004FB321 /* труба_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418931F8CB92F004FB321 /* труба_1.mp3 */; };
+		1F1419831F8CB930004FB321 /* флейта_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418941F8CB92F004FB321 /* флейта_1.mp3 */; };
+		1F1419841F8CB930004FB321 /* абрикос_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418961F8CB92F004FB321 /* абрикос_1.mp3 */; };
+		1F1419851F8CB930004FB321 /* ананас_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418971F8CB92F004FB321 /* ананас_1.mp3 */; };
+		1F1419861F8CB930004FB321 /* апельсин_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418981F8CB92F004FB321 /* апельсин_1.mp3 */; };
+		1F1419871F8CB930004FB321 /* арбуз_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418991F8CB92F004FB321 /* арбуз_1.mp3 */; };
+		1F1419881F8CB930004FB321 /* банан_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14189A1F8CB92F004FB321 /* банан_1.mp3 */; };
+		1F1419891F8CB930004FB321 /* виноград_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14189B1F8CB92F004FB321 /* виноград_1.mp3 */; };
+		1F14198A1F8CB930004FB321 /* вишня_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14189C1F8CB92F004FB321 /* вишня_1.mp3 */; };
+		1F14198B1F8CB930004FB321 /* гранат_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14189D1F8CB92F004FB321 /* гранат_1.mp3 */; };
+		1F14198C1F8CB930004FB321 /* груша_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14189E1F8CB92F004FB321 /* груша_1.mp3 */; };
+		1F14198D1F8CB930004FB321 /* дыня_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F14189F1F8CB92F004FB321 /* дыня_1.mp3 */; };
+		1F14198E1F8CB930004FB321 /* киви_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A01F8CB92F004FB321 /* киви_1.mp3 */; };
+		1F14198F1F8CB930004FB321 /* клубника_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A11F8CB92F004FB321 /* клубника_1.mp3 */; };
+		1F1419901F8CB930004FB321 /* крыжовник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A21F8CB92F004FB321 /* крыжовник_1.mp3 */; };
+		1F1419911F8CB930004FB321 /* лимон_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A31F8CB92F004FB321 /* лимон_1.mp3 */; };
+		1F1419921F8CB930004FB321 /* малина_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A41F8CB92F004FB321 /* малина_1.mp3 */; };
+		1F1419931F8CB930004FB321 /* мандарин_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A51F8CB92F004FB321 /* мандарин_1.mp3 */; };
+		1F1419941F8CB930004FB321 /* персик_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A61F8CB92F004FB321 /* персик_1.mp3 */; };
+		1F1419951F8CB930004FB321 /* слива_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A71F8CB92F004FB321 /* слива_1.mp3 */; };
+		1F1419961F8CB930004FB321 /* смородина_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A81F8CB92F004FB321 /* смородина_1.mp3 */; };
+		1F1419971F8CB930004FB321 /* черника_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418A91F8CB92F004FB321 /* черника_1.mp3 */; };
+		1F1419981F8CB930004FB321 /* яблоко_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418AA1F8CB92F004FB321 /* яблоко_1.mp3 */; };
+		1F1419991F8CB930004FB321 /* автобус_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418AC1F8CB92F004FB321 /* автобус_1.mp3 */; };
+		1F14199A1F8CB930004FB321 /* велосипед_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418AD1F8CB92F004FB321 /* велосипед_1.mp3 */; };
+		1F14199B1F8CB930004FB321 /* вертолет_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418AE1F8CB92F004FB321 /* вертолет_1.mp3 */; };
+		1F14199C1F8CB930004FB321 /* воздушный шар_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418AF1F8CB92F004FB321 /* воздушный шар_1.mp3 */; };
+		1F14199D1F8CB930004FB321 /* грузовик_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B01F8CB92F004FB321 /* грузовик_1.mp3 */; };
+		1F14199E1F8CB930004FB321 /* корабль_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B11F8CB92F004FB321 /* корабль_1.mp3 */; };
+		1F14199F1F8CB930004FB321 /* легковой автомобиль_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B21F8CB92F004FB321 /* легковой автомобиль_1.mp3 */; };
+		1F1419A01F8CB930004FB321 /* мотоцикл_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B31F8CB92F004FB321 /* мотоцикл_1.mp3 */; };
+		1F1419A11F8CB930004FB321 /* поезд_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B41F8CB92F004FB321 /* поезд_1.mp3 */; };
+		1F1419A21F8CB930004FB321 /* пожарная машина_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B51F8CB92F004FB321 /* пожарная машина_1.mp3 */; };
+		1F1419A31F8CB930004FB321 /* полицейская машина_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B61F8CB92F004FB321 /* полицейская машина_1.mp3 */; };
+		1F1419A41F8CB930004FB321 /* ракета_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B71F8CB92F004FB321 /* ракета_1.mp3 */; };
+		1F1419A51F8CB930004FB321 /* самолет_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B81F8CB92F004FB321 /* самолет_1.mp3 */; };
+		1F1419A61F8CB930004FB321 /* скорая помощь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418B91F8CB92F004FB321 /* скорая помощь_1.mp3 */; };
+		1F1419A71F8CB930004FB321 /* трактор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418BA1F8CB92F004FB321 /* трактор_1.mp3 */; };
+		1F1419A81F8CB930004FB321 /* экскаватор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418BB1F8CB92F004FB321 /* экскаватор_1.mp3 */; };
+		1F1419A91F8CB930004FB321 /* дворник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418BD1F8CB92F004FB321 /* дворник_1.mp3 */; };
+		1F1419AA1F8CB930004FB321 /* клоун_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418BE1F8CB92F004FB321 /* клоун_1.mp3 */; };
+		1F1419AB1F8CB930004FB321 /* космонафт_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418BF1F8CB92F004FB321 /* космонафт_1.mp3 */; };
+		1F1419AC1F8CB930004FB321 /* повар_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418C01F8CB92F004FB321 /* повар_1.mp3 */; };
+		1F1419AD1F8CB930004FB321 /* пожарный_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418C11F8CB92F004FB321 /* пожарный_1.mp3 */; };
+		1F1419AE1F8CB930004FB321 /* полицейский_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418C21F8CB92F004FB321 /* полицейский_1.mp3 */; };
+		1F1419AF1F8CB930004FB321 /* почтальон_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418C31F8CB92F004FB321 /* почтальон_1.mp3 */; };
+		1F1419B01F8CB930004FB321 /* программист_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418C41F8CB92F004FB321 /* программист_1.mp3 */; };
+		1F1419B11F8CB930004FB321 /* садовник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418C51F8CB92F004FB321 /* садовник_1.mp3 */; };
+		1F1419B21F8CB930004FB321 /* учитель_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418C61F8CB92F004FB321 /* учитель_1.mp3 */; };
+		1F1419B31F8CB930004FB321 /* художник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1418C71F8CB92F004FB321 /* художник_1.mp3 */; };
+		1F1419B51F8CBBBD004FB321 /* обезьяна_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F1419B41F8CBBBC004FB321 /* обезьяна_1.mp3 */; };
 		1F1CC0481F3A29CD00E920CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1CC0471F3A29CD00E920CA /* AppDelegate.swift */; };
 		1F1CC04A1F3A29CD00E920CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1CC0491F3A29CD00E920CA /* ViewController.swift */; };
 		1F1CC04D1F3A29CD00E920CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F1CC04B1F3A29CD00E920CA /* Main.storyboard */; };
@@ -17,18 +253,11 @@
 		1F1FBC381F3FC3CD004B6517 /* headerReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1FBC371F3FC3CD004B6517 /* headerReusableView.swift */; };
 		1F221EC81F4257B100177EB7 /* colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F221EC71F4257B100177EB7 /* colors.swift */; };
 		1F22B6211F83CB8400629C1D /* photoPhotos.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B6201F83CB8400629C1D /* photoPhotos.xcassets */; };
-		1F22B62E1F83CEDC00629C1D /* 10_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B6241F83CEDC00629C1D /* 10_1.mp3 */; };
-		1F22B62F1F83CEDC00629C1D /* 1_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B6251F83CEDC00629C1D /* 1_1.mp3 */; };
-		1F22B6301F83CEDC00629C1D /* 2_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B6261F83CEDC00629C1D /* 2_1.mp3 */; };
-		1F22B6311F83CEDC00629C1D /* 3_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B6271F83CEDC00629C1D /* 3_1.mp3 */; };
-		1F22B6321F83CEDC00629C1D /* 4_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B6281F83CEDC00629C1D /* 4_1.mp3 */; };
-		1F22B6331F83CEDC00629C1D /* 5_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B6291F83CEDC00629C1D /* 5_1.mp3 */; };
-		1F22B6341F83CEDC00629C1D /* 6_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B62A1F83CEDC00629C1D /* 6_1.mp3 */; };
-		1F22B6351F83CEDC00629C1D /* 7_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B62B1F83CEDC00629C1D /* 7_1.mp3 */; };
-		1F22B6361F83CEDC00629C1D /* 8_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B62C1F83CEDC00629C1D /* 8_1.mp3 */; };
-		1F22B6371F83CEDC00629C1D /* 9_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F22B62D1F83CEDC00629C1D /* 9_1.mp3 */; };
 		1F25D6661F3E862B003F64C3 /* twoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F25D6651F3E862B003F64C3 /* twoViewController.swift */; };
 		1F25D6681F3E8653003F64C3 /* settingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F25D6671F3E8653003F64C3 /* settingViewController.swift */; };
+		1F26D3B31F9011040020B41F /* coloros.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F26D3B21F9011040020B41F /* coloros.xcassets */; };
+		1F26D4231F9027B50020B41F /* photoAnimal.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F26D4221F9027B50020B41F /* photoAnimal.xcassets */; };
+		1F26D5D41F9046BE0020B41F /* bukvyPhoto.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F26D5D31F9046BE0020B41F /* bukvyPhoto.xcassets */; };
 		1F28D0DC1F7DD73600A7039B /* bukvy.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F28D0DB1F7DD73600A7039B /* bukvy.xcassets */; };
 		1F2921291F7EDD1300CAB0C9 /* clothes.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F2921281F7EDD1300CAB0C9 /* clothes.xcassets */; };
 		1F2921801F7EE24F00CAB0C9 /* home.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F29217F1F7EE24F00CAB0C9 /* home.xcassets */; };
@@ -37,126 +266,6 @@
 		1F33E01A1F7BE9E20068829D /* vegetablePhotos.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F33E0191F7BE9E20068829D /* vegetablePhotos.xcassets */; };
 		1F33E01C1F7BEA0C0068829D /* fruitPhotos.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F33E01B1F7BEA0C0068829D /* fruitPhotos.xcassets */; };
 		1F33E01E1F7BEA490068829D /* instrumentsPhoto.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F33E01D1F7BEA490068829D /* instrumentsPhoto.xcassets */; };
-		1F50B61F1F88435F00D41398 /* белый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6141F88435F00D41398 /* белый_1.mp3 */; };
-		1F50B6201F88435F00D41398 /* голубой_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6151F88435F00D41398 /* голубой_1.mp3 */; };
-		1F50B6211F88435F00D41398 /* желтый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6161F88435F00D41398 /* желтый_1.mp3 */; };
-		1F50B6221F88435F00D41398 /* зеленый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6171F88435F00D41398 /* зеленый_1.mp3 */; };
-		1F50B6231F88435F00D41398 /* коричневый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6181F88435F00D41398 /* коричневый_1.mp3 */; };
-		1F50B6241F88435F00D41398 /* красный_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6191F88435F00D41398 /* красный_1.mp3 */; };
-		1F50B6251F88435F00D41398 /* оранжевый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B61A1F88435F00D41398 /* оранжевый_1.mp3 */; };
-		1F50B6261F88435F00D41398 /* розовый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B61B1F88435F00D41398 /* розовый_1.mp3 */; };
-		1F50B6271F88435F00D41398 /* синий_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B61C1F88435F00D41398 /* синий_1.mp3 */; };
-		1F50B6281F88435F00D41398 /* сиреневый_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B61D1F88435F00D41398 /* сиреневый_1.mp3 */; };
-		1F50B6291F88435F00D41398 /* черный_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B61E1F88435F00D41398 /* черный_1.mp3 */; };
-		1F50B69C1F884C5A00D41398 /* ванна_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B62B1F884C5A00D41398 /* ванна_1.mp3 */; };
-		1F50B69D1F884C5A00D41398 /* вентилятор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B62C1F884C5A00D41398 /* вентилятор_1.mp3 */; };
-		1F50B69E1F884C5A00D41398 /* вилка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B62D1F884C5A00D41398 /* вилка_1.mp3 */; };
-		1F50B69F1F884C5A00D41398 /* дверь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B62E1F884C5A00D41398 /* дверь_1.mp3 */; };
-		1F50B6A01F884C5A00D41398 /* диван_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B62F1F884C5A00D41398 /* диван_1.mp3 */; };
-		1F50B6A11F884C5A00D41398 /* зонт_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6301F884C5A00D41398 /* зонт_1.mp3 */; };
-		1F50B6A21F884C5A00D41398 /* зубная щетка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6311F884C5A00D41398 /* зубная щетка_1.mp3 */; };
-		1F50B6A31F884C5A00D41398 /* кастрюля_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6321F884C5A00D41398 /* кастрюля_1.mp3 */; };
-		1F50B6A41F884C5A00D41398 /* компьютер_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6331F884C5A00D41398 /* компьютер_1.mp3 */; };
-		1F50B6A51F884C5A00D41398 /* кран_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6341F884C5A00D41398 /* кран_1.mp3 */; };
-		1F50B6A61F884C5A00D41398 /* кресло_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6351F884C5A00D41398 /* кресло_1.mp3 */; };
-		1F50B6A71F884C5A00D41398 /* кровать_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6361F884C5A00D41398 /* кровать_1.mp3 */; };
-		1F50B6A81F884C5A00D41398 /* кружка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6371F884C5A00D41398 /* кружка_1.mp3 */; };
-		1F50B6A91F884C5A00D41398 /* лампа_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6381F884C5A00D41398 /* лампа_1.mp3 */; };
-		1F50B6AA1F884C5A00D41398 /* ложка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6391F884C5A00D41398 /* ложка_1.mp3 */; };
-		1F50B6AB1F884C5A00D41398 /* микроволновая печь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B63A1F884C5A00D41398 /* микроволновая печь_1.mp3 */; };
-		1F50B6AC1F884C5A00D41398 /* миксер_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B63B1F884C5A00D41398 /* миксер_1.mp3 */; };
-		1F50B6AD1F884C5A00D41398 /* нож_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B63C1F884C5A00D41398 /* нож_1.mp3 */; };
-		1F50B6AE1F884C5A00D41398 /* ножницы_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B63D1F884C5A00D41398 /* ножницы_1.mp3 */; };
-		1F50B6AF1F884C5A00D41398 /* плита_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B63E1F884C5A00D41398 /* плита_1.mp3 */; };
-		1F50B6B01F884C5A00D41398 /* поварешки_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B63F1F884C5A00D41398 /* поварешки_1.mp3 */; };
-		1F50B6B21F884C5A00D41398 /* пылесос_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6411F884C5A00D41398 /* пылесос_1.mp3 */; };
-		1F50B6B31F884C5A00D41398 /* ручка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6421F884C5A00D41398 /* ручка_1.mp3 */; };
-		1F50B6B41F884C5A00D41398 /* сковорода_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6431F884C5A00D41398 /* сковорода_1.mp3 */; };
-		1F50B6B51F884C5A00D41398 /* стакан_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6441F884C5A00D41398 /* стакан_1.mp3 */; };
-		1F50B6B61F884C5A00D41398 /* стиральная машина_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6451F884C5A00D41398 /* стиральная машина_1.mp3 */; };
-		1F50B6B71F884C5A00D41398 /* стол_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6461F884C5A00D41398 /* стол_1.mp3 */; };
-		1F50B6B81F884C5A00D41398 /* стул_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6471F884C5A00D41398 /* стул_1.mp3 */; };
-		1F50B6B91F884C5A00D41398 /* тарелка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6481F884C5A00D41398 /* тарелка_1.mp3 */; };
-		1F50B6BA1F884C5A00D41398 /* телефон_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6491F884C5A00D41398 /* телефон_1.mp3 */; };
-		1F50B6BB1F884C5A00D41398 /* терка_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B64A1F884C5A00D41398 /* терка_1.mp3 */; };
-		1F50B6BC1F884C5A00D41398 /* утюг_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B64B1F884C5A00D41398 /* утюг_1.mp3 */; };
-		1F50B6BD1F884C5A00D41398 /* фен_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B64C1F884C5A00D41398 /* фен_1.mp3 */; };
-		1F50B6BE1F884C5A00D41398 /* холодильник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B64D1F884C5A00D41398 /* холодильник_1.mp3 */; };
-		1F50B6BF1F884C5A00D41398 /* чайник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B64E1F884C5A00D41398 /* чайник_1.mp3 */; };
-		1F50B6C01F884C5A00D41398 /* часы_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B64F1F884C5A00D41398 /* часы_1.mp3 */; };
-		1F50B6D11F884C5A00D41398 /* звезда_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6621F884C5A00D41398 /* звезда_1.mp3 */; };
-		1F50B6D21F884C5A00D41398 /* квадрат_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6631F884C5A00D41398 /* квадрат_1.mp3 */; };
-		1F50B6D31F884C5A00D41398 /* круг_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6641F884C5A00D41398 /* круг_1.mp3 */; };
-		1F50B6D41F884C5A00D41398 /* овал_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6651F884C5A00D41398 /* овал_1.mp3 */; };
-		1F50B6D51F884C5A00D41398 /* полукруг_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6661F884C5A00D41398 /* полукруг_1.mp3 */; };
-		1F50B6D61F884C5A00D41398 /* прямоугольник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6671F884C5A00D41398 /* прямоугольник_1.mp3 */; };
-		1F50B6D71F884C5A00D41398 /* ромб_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6681F884C5A00D41398 /* ромб_1.mp3 */; };
-		1F50B6D81F884C5A00D41398 /* трапеция_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6691F884C5A00D41398 /* трапеция_1.mp3 */; };
-		1F50B6D91F884C5A00D41398 /* треугольник_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B66A1F884C5A00D41398 /* треугольник_1.mp3 */; };
-		1F50B6DA1F884C5A00D41398 /* а_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B66C1F884C5A00D41398 /* а_1.mp3 */; };
-		1F50B6DB1F884C5A00D41398 /* б_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B66D1F884C5A00D41398 /* б_1.mp3 */; };
-		1F50B6DC1F884C5A00D41398 /* в_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B66E1F884C5A00D41398 /* в_1.mp3 */; };
-		1F50B6DD1F884C5A00D41398 /* г_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B66F1F884C5A00D41398 /* г_1.mp3 */; };
-		1F50B6DE1F884C5A00D41398 /* д_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6701F884C5A00D41398 /* д_1.mp3 */; };
-		1F50B6DF1F884C5A00D41398 /* е_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6711F884C5A00D41398 /* е_1.mp3 */; };
-		1F50B6E11F884C5A00D41398 /* ж_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6731F884C5A00D41398 /* ж_1.mp3 */; };
-		1F50B6E21F884C5A00D41398 /* з_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6741F884C5A00D41398 /* з_1.mp3 */; };
-		1F50B6E31F884C5A00D41398 /* и_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6751F884C5A00D41398 /* и_1.mp3 */; };
-		1F50B6E51F884C5A00D41398 /* к_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6771F884C5A00D41398 /* к_1.mp3 */; };
-		1F50B6E61F884C5A00D41398 /* л_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6781F884C5A00D41398 /* л_1.mp3 */; };
-		1F50B6E71F884C5A00D41398 /* м_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6791F884C5A00D41398 /* м_1.mp3 */; };
-		1F50B6E81F884C5A00D41398 /* н_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B67A1F884C5A00D41398 /* н_1.mp3 */; };
-		1F50B6E91F884C5A00D41398 /* о_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B67B1F884C5A00D41398 /* о_1.mp3 */; };
-		1F50B6EA1F884C5A00D41398 /* п_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B67C1F884C5A00D41398 /* п_1.mp3 */; };
-		1F50B6EB1F884C5A00D41398 /* р_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B67D1F884C5A00D41398 /* р_1.mp3 */; };
-		1F50B6EC1F884C5A00D41398 /* с_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B67E1F884C5A00D41398 /* с_1.mp3 */; };
-		1F50B6ED1F884C5A00D41398 /* т_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B67F1F884C5A00D41398 /* т_1.mp3 */; };
-		1F50B6EE1F884C5A00D41398 /* у_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6801F884C5A00D41398 /* у_1.mp3 */; };
-		1F50B6EF1F884C5A00D41398 /* ф_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6811F884C5A00D41398 /* ф_1.mp3 */; };
-		1F50B6F01F884C5A00D41398 /* х_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6821F884C5A00D41398 /* х_1.mp3 */; };
-		1F50B6F11F884C5A00D41398 /* ц_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6831F884C5A00D41398 /* ц_1.mp3 */; };
-		1F50B6F21F884C5A00D41398 /* ч_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6841F884C5A00D41398 /* ч_1.mp3 */; };
-		1F50B6F31F884C5A00D41398 /* ш_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6851F884C5A00D41398 /* ш_1.mp3 */; };
-		1F50B6F41F884C5A00D41398 /* щ_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6861F884C5A00D41398 /* щ_1.mp3 */; };
-		1F50B6F51F884C5A00D41398 /* ъ_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6871F884C5A00D41398 /* ъ_1.mp3 */; };
-		1F50B6F61F884C5A00D41398 /* ы_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6881F884C5A00D41398 /* ы_1.mp3 */; };
-		1F50B6F71F884C5A00D41398 /* ь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6891F884C5A00D41398 /* ь_1.mp3 */; };
-		1F50B6F81F884C5A00D41398 /* э_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B68A1F884C5A00D41398 /* э_1.mp3 */; };
-		1F50B6F91F884C5A00D41398 /* ю_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B68B1F884C5A00D41398 /* ю_1.mp3 */; };
-		1F50B6FA1F884C5A00D41398 /* я_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B68C1F884C5A00D41398 /* я_1.mp3 */; };
-		1F50B6FB1F884C5A00D41398 /* баклажан_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B68E1F884C5A00D41398 /* баклажан_1.mp3 */; };
-		1F50B6FC1F884C5A00D41398 /* кабачок_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B68F1F884C5A00D41398 /* кабачок_1.mp3 */; };
-		1F50B6FD1F884C5A00D41398 /* капуста_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6901F884C5A00D41398 /* капуста_1.mp3 */; };
-		1F50B6FE1F884C5A00D41398 /* картофель_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6911F884C5A00D41398 /* картофель_1.mp3 */; };
-		1F50B6FF1F884C5A00D41398 /* кукуруза_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6921F884C5A00D41398 /* кукуруза_1.mp3 */; };
-		1F50B7001F884C5A00D41398 /* лук_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6931F884C5A00D41398 /* лук_1.mp3 */; };
-		1F50B7011F884C5A00D41398 /* морковь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6941F884C5A00D41398 /* морковь_1.mp3 */; };
-		1F50B7021F884C5A00D41398 /* огурец_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6951F884C5A00D41398 /* огурец_1.mp3 */; };
-		1F50B7031F884C5A00D41398 /* перец_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6961F884C5A00D41398 /* перец_1.mp3 */; };
-		1F50B7041F884C5A00D41398 /* помидор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6971F884C5A00D41398 /* помидор_1.mp3 */; };
-		1F50B7051F884C5A00D41398 /* репа_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6981F884C5A00D41398 /* репа_1.mp3 */; };
-		1F50B7061F884C5A00D41398 /* свекла_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B6991F884C5A00D41398 /* свекла_1.mp3 */; };
-		1F50B7071F884C5A00D41398 /* тыква_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B69A1F884C5A00D41398 /* тыква_1.mp3 */; };
-		1F50B7081F884C5A00D41398 /* укроп_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B69B1F884C5A00D41398 /* укроп_1.mp3 */; };
-		1F50B70B1F8854FA00D41398 /* ё-1_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7091F8854FA00D41398 /* ё-1_1.mp3 */; };
-		1F50B70C1F8854FA00D41398 /* й-1_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B70A1F8854FA00D41398 /* й-1_1.mp3 */; };
-		1F50B71E1F88560A00D41398 /* автобус_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B70E1F88560A00D41398 /* автобус_1.mp3 */; };
-		1F50B71F1F88560A00D41398 /* велосипед_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B70F1F88560A00D41398 /* велосипед_1.mp3 */; };
-		1F50B7201F88560A00D41398 /* вертолет_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7101F88560A00D41398 /* вертолет_1.mp3 */; };
-		1F50B7211F88560A00D41398 /* воздушный шар_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7111F88560A00D41398 /* воздушный шар_1.mp3 */; };
-		1F50B7221F88560A00D41398 /* грузовик_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7121F88560A00D41398 /* грузовик_1.mp3 */; };
-		1F50B7231F88560A00D41398 /* корабль_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7131F88560A00D41398 /* корабль_1.mp3 */; };
-		1F50B7241F88560A00D41398 /* легковой автомобиль_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7141F88560A00D41398 /* легковой автомобиль_1.mp3 */; };
-		1F50B7251F88560A00D41398 /* мотоцикл_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7151F88560A00D41398 /* мотоцикл_1.mp3 */; };
-		1F50B7261F88560A00D41398 /* поезд_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7161F88560A00D41398 /* поезд_1.mp3 */; };
-		1F50B7281F88560A00D41398 /* полицейская машина_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7181F88560A00D41398 /* полицейская машина_1.mp3 */; };
-		1F50B7291F88560A00D41398 /* ракета_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7191F88560A00D41398 /* ракета_1.mp3 */; };
-		1F50B72A1F88560A00D41398 /* самолет_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B71A1F88560A00D41398 /* самолет_1.mp3 */; };
-		1F50B72B1F88560A00D41398 /* скорая помощь_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B71B1F88560A00D41398 /* скорая помощь_1.mp3 */; };
-		1F50B72C1F88560A00D41398 /* трактор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B71C1F88560A00D41398 /* трактор_1.mp3 */; };
-		1F50B72D1F88560A00D41398 /* экскаватор_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B71D1F88560A00D41398 /* экскаватор_1.mp3 */; };
-		1F50B72F1F8856DF00D41398 /* пожарная машина_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B72E1F8856DF00D41398 /* пожарная машина_1.mp3 */; };
-		1F50B7311F88578700D41398 /* полотенца_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F50B7301F88578600D41398 /* полотенца_1.mp3 */; };
 		1F6045B11F409996006761D7 /* customView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6045B01F409996006761D7 /* customView.swift */; };
 		1F6045B51F40A095006761D7 /* photoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6045B41F40A095006761D7 /* photoViewController.swift */; };
 		1F9E38281F3F49CD008FFF4F /* collectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9E38271F3F49CD008FFF4F /* collectionViewController.swift */; };
@@ -175,6 +284,242 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F1417D01F8CB92E004FB321 /* а_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "а_1.mp3"; sourceTree = "<group>"; };
+		1F1417D11F8CB92E004FB321 /* б_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "б_1.mp3"; sourceTree = "<group>"; };
+		1F1417D21F8CB92E004FB321 /* в_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "в_1.mp3"; sourceTree = "<group>"; };
+		1F1417D31F8CB92E004FB321 /* г_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "г_1.mp3"; sourceTree = "<group>"; };
+		1F1417D41F8CB92E004FB321 /* д_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "д_1.mp3"; sourceTree = "<group>"; };
+		1F1417D51F8CB92E004FB321 /* е_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "е_1.mp3"; sourceTree = "<group>"; };
+		1F1417D61F8CB92E004FB321 /* ё-1_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ё-1_1.mp3"; sourceTree = "<group>"; };
+		1F1417D71F8CB92E004FB321 /* ж_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ж_1.mp3"; sourceTree = "<group>"; };
+		1F1417D81F8CB92E004FB321 /* з_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "з_1.mp3"; sourceTree = "<group>"; };
+		1F1417D91F8CB92E004FB321 /* и_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "и_1.mp3"; sourceTree = "<group>"; };
+		1F1417DA1F8CB92E004FB321 /* й-1_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "й-1_1.mp3"; sourceTree = "<group>"; };
+		1F1417DB1F8CB92E004FB321 /* к_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "к_1.mp3"; sourceTree = "<group>"; };
+		1F1417DC1F8CB92E004FB321 /* л_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "л_1.mp3"; sourceTree = "<group>"; };
+		1F1417DD1F8CB92E004FB321 /* м_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "м_1.mp3"; sourceTree = "<group>"; };
+		1F1417DE1F8CB92E004FB321 /* н_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "н_1.mp3"; sourceTree = "<group>"; };
+		1F1417DF1F8CB92E004FB321 /* о_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "о_1.mp3"; sourceTree = "<group>"; };
+		1F1417E01F8CB92E004FB321 /* п_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "п_1.mp3"; sourceTree = "<group>"; };
+		1F1417E11F8CB92E004FB321 /* р_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "р_1.mp3"; sourceTree = "<group>"; };
+		1F1417E21F8CB92E004FB321 /* с_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "с_1.mp3"; sourceTree = "<group>"; };
+		1F1417E31F8CB92E004FB321 /* т_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "т_1.mp3"; sourceTree = "<group>"; };
+		1F1417E41F8CB92E004FB321 /* у_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "у_1.mp3"; sourceTree = "<group>"; };
+		1F1417E51F8CB92E004FB321 /* ф_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ф_1.mp3"; sourceTree = "<group>"; };
+		1F1417E61F8CB92E004FB321 /* х_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "х_1.mp3"; sourceTree = "<group>"; };
+		1F1417E71F8CB92E004FB321 /* ц_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ц_1.mp3"; sourceTree = "<group>"; };
+		1F1417E81F8CB92E004FB321 /* ч_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ч_1.mp3"; sourceTree = "<group>"; };
+		1F1417E91F8CB92E004FB321 /* ш_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ш_1.mp3"; sourceTree = "<group>"; };
+		1F1417EA1F8CB92E004FB321 /* щ_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "щ_1.mp3"; sourceTree = "<group>"; };
+		1F1417EB1F8CB92E004FB321 /* ъ_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ъ_1.mp3"; sourceTree = "<group>"; };
+		1F1417EC1F8CB92E004FB321 /* ы_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ы_1.mp3"; sourceTree = "<group>"; };
+		1F1417ED1F8CB92E004FB321 /* ь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ь_1.mp3"; sourceTree = "<group>"; };
+		1F1417EE1F8CB92E004FB321 /* э_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "э_1.mp3"; sourceTree = "<group>"; };
+		1F1417EF1F8CB92E004FB321 /* ю_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ю_1.mp3"; sourceTree = "<group>"; };
+		1F1417F01F8CB92E004FB321 /* я_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "я_1.mp3"; sourceTree = "<group>"; };
+		1F1417F21F8CB92E004FB321 /* акула_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "акула_1.mp3"; sourceTree = "<group>"; };
+		1F1417F31F8CB92E004FB321 /* бегемот_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "бегемот_1.mp3"; sourceTree = "<group>"; };
+		1F1417F41F8CB92E004FB321 /* верблюд_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "верблюд_1.mp3"; sourceTree = "<group>"; };
+		1F1417F51F8CB92E004FB321 /* дельфин_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "дельфин_1.mp3"; sourceTree = "<group>"; };
+		1F1417F61F8CB92E004FB321 /* ежик_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ежик_1.mp3"; sourceTree = "<group>"; };
+		1F1417F71F8CB92E004FB321 /* жираф_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "жираф_1.mp3"; sourceTree = "<group>"; };
+		1F1417F81F8CB92E004FB321 /* заяц_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "заяц_1.mp3"; sourceTree = "<group>"; };
+		1F1417F91F8CB92E004FB321 /* зебра_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "зебра_1.mp3"; sourceTree = "<group>"; };
+		1F1417FA1F8CB92E004FB321 /* кит_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кит_1.mp3"; sourceTree = "<group>"; };
+		1F1417FB1F8CB92E004FB321 /* козел_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "козел_1.mp3"; sourceTree = "<group>"; };
+		1F1417FC1F8CB92E004FB321 /* корова_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "корова_1.mp3"; sourceTree = "<group>"; };
+		1F1417FD1F8CB92E004FB321 /* кошка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кошка_1.mp3"; sourceTree = "<group>"; };
+		1F1417FE1F8CB92E004FB321 /* крокодил_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "крокодил_1.mp3"; sourceTree = "<group>"; };
+		1F1417FF1F8CB92E004FB321 /* курица_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "курица_1.mp3"; sourceTree = "<group>"; };
+		1F1418001F8CB92E004FB321 /* лев_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лев_1.mp3"; sourceTree = "<group>"; };
+		1F1418011F8CB92E004FB321 /* леопард_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "леопард_1.mp3"; sourceTree = "<group>"; };
+		1F1418021F8CB92E004FB321 /* лиса_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лиса_1.mp3"; sourceTree = "<group>"; };
+		1F1418031F8CB92E004FB321 /* лошадь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лошадь_1.mp3"; sourceTree = "<group>"; };
+		1F1418041F8CB92E004FB321 /* лягушка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лягушка_1.mp3"; sourceTree = "<group>"; };
+		1F1418051F8CB92E004FB321 /* медведь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "медведь_1.mp3"; sourceTree = "<group>"; };
+		1F1418061F8CB92E004FB321 /* мышь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "мышь_1.mp3"; sourceTree = "<group>"; };
+		1F1418071F8CB92E004FB321 /* носорог_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "носорог_1.mp3"; sourceTree = "<group>"; };
+		1F1418091F8CB92E004FB321 /* овца_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "овца_1.mp3"; sourceTree = "<group>"; };
+		1F14180A1F8CB92E004FB321 /* олень_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "олень_1.mp3"; sourceTree = "<group>"; };
+		1F14180B1F8CB92E004FB321 /* панда_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "панда_1.mp3"; sourceTree = "<group>"; };
+		1F14180C1F8CB92E004FB321 /* петух_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "петух_1.mp3"; sourceTree = "<group>"; };
+		1F14180D1F8CB92E004FB321 /* пингвин_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "пингвин_1.mp3"; sourceTree = "<group>"; };
+		1F14180E1F8CB92E004FB321 /* попугай_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "попугай_1.mp3"; sourceTree = "<group>"; };
+		1F14180F1F8CB92E004FB321 /* птица_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "птица_1.mp3"; sourceTree = "<group>"; };
+		1F1418101F8CB92E004FB321 /* рыба_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "рыба_1.mp3"; sourceTree = "<group>"; };
+		1F1418111F8CB92E004FB321 /* свинья_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "свинья_1.mp3"; sourceTree = "<group>"; };
+		1F1418121F8CB92E004FB321 /* слон_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "слон_1.mp3"; sourceTree = "<group>"; };
+		1F1418131F8CB92E004FB321 /* собака_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "собака_1.mp3"; sourceTree = "<group>"; };
+		1F1418141F8CB92E004FB321 /* сова_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "сова_1.mp3"; sourceTree = "<group>"; };
+		1F1418151F8CB92E004FB321 /* тигр_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "тигр_1.mp3"; sourceTree = "<group>"; };
+		1F1418161F8CB92E004FB321 /* улитка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "улитка_1.mp3"; sourceTree = "<group>"; };
+		1F1418171F8CB92E004FB321 /* утка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "утка_1.mp3"; sourceTree = "<group>"; };
+		1F1418181F8CB92E004FB321 /* цыпленок_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "цыпленок_1.mp3"; sourceTree = "<group>"; };
+		1F1418191F8CB92E004FB321 /* черепаха_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "черепаха_1.mp3"; sourceTree = "<group>"; };
+		1F14181B1F8CB92E004FB321 /* белый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "белый_1.mp3"; sourceTree = "<group>"; };
+		1F14181C1F8CB92E004FB321 /* голубой_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "голубой_1.mp3"; sourceTree = "<group>"; };
+		1F14181D1F8CB92E004FB321 /* желтый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "желтый_1.mp3"; sourceTree = "<group>"; };
+		1F14181E1F8CB92E004FB321 /* зеленый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "зеленый_1.mp3"; sourceTree = "<group>"; };
+		1F14181F1F8CB92E004FB321 /* коричневый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "коричневый_1.mp3"; sourceTree = "<group>"; };
+		1F1418201F8CB92E004FB321 /* красный_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "красный_1.mp3"; sourceTree = "<group>"; };
+		1F1418211F8CB92E004FB321 /* оранжевый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "оранжевый_1.mp3"; sourceTree = "<group>"; };
+		1F1418221F8CB92F004FB321 /* розовый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "розовый_1.mp3"; sourceTree = "<group>"; };
+		1F1418231F8CB92F004FB321 /* синий_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "синий_1.mp3"; sourceTree = "<group>"; };
+		1F1418241F8CB92F004FB321 /* сиреневый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "сиреневый_1.mp3"; sourceTree = "<group>"; };
+		1F1418251F8CB92F004FB321 /* черный_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "черный_1.mp3"; sourceTree = "<group>"; };
+		1F1418271F8CB92F004FB321 /* звезда_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "звезда_1.mp3"; sourceTree = "<group>"; };
+		1F1418281F8CB92F004FB321 /* квадрат_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "квадрат_1.mp3"; sourceTree = "<group>"; };
+		1F1418291F8CB92F004FB321 /* круг_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "круг_1.mp3"; sourceTree = "<group>"; };
+		1F14182A1F8CB92F004FB321 /* овал_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "овал_1.mp3"; sourceTree = "<group>"; };
+		1F14182B1F8CB92F004FB321 /* полукруг_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "полукруг_1.mp3"; sourceTree = "<group>"; };
+		1F14182C1F8CB92F004FB321 /* прямоугольник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "прямоугольник_1.mp3"; sourceTree = "<group>"; };
+		1F14182D1F8CB92F004FB321 /* ромб_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ромб_1.mp3"; sourceTree = "<group>"; };
+		1F14182E1F8CB92F004FB321 /* трапеция_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "трапеция_1.mp3"; sourceTree = "<group>"; };
+		1F14182F1F8CB92F004FB321 /* треугольник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "треугольник_1.mp3"; sourceTree = "<group>"; };
+		1F1418311F8CB92F004FB321 /* баклажан_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "баклажан_1.mp3"; sourceTree = "<group>"; };
+		1F1418321F8CB92F004FB321 /* кабачок_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кабачок_1.mp3"; sourceTree = "<group>"; };
+		1F1418331F8CB92F004FB321 /* капуста_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "капуста_1.mp3"; sourceTree = "<group>"; };
+		1F1418341F8CB92F004FB321 /* картофель_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "картофель_1.mp3"; sourceTree = "<group>"; };
+		1F1418351F8CB92F004FB321 /* кукуруза_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кукуруза_1.mp3"; sourceTree = "<group>"; };
+		1F1418361F8CB92F004FB321 /* лук_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лук_1.mp3"; sourceTree = "<group>"; };
+		1F1418371F8CB92F004FB321 /* морковь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "морковь_1.mp3"; sourceTree = "<group>"; };
+		1F1418381F8CB92F004FB321 /* огурец_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "огурец_1.mp3"; sourceTree = "<group>"; };
+		1F1418391F8CB92F004FB321 /* перец_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "перец_1.mp3"; sourceTree = "<group>"; };
+		1F14183A1F8CB92F004FB321 /* помидор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "помидор_1.mp3"; sourceTree = "<group>"; };
+		1F14183B1F8CB92F004FB321 /* репа_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "репа_1.mp3"; sourceTree = "<group>"; };
+		1F14183C1F8CB92F004FB321 /* свекла_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "свекла_1.mp3"; sourceTree = "<group>"; };
+		1F14183D1F8CB92F004FB321 /* тыква_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "тыква_1.mp3"; sourceTree = "<group>"; };
+		1F14183E1F8CB92F004FB321 /* укроп_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "укроп_1.mp3"; sourceTree = "<group>"; };
+		1F1418401F8CB92F004FB321 /* 10_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 10_1.mp3; sourceTree = "<group>"; };
+		1F1418411F8CB92F004FB321 /* 1_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1_1.mp3; sourceTree = "<group>"; };
+		1F1418421F8CB92F004FB321 /* 2_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2_1.mp3; sourceTree = "<group>"; };
+		1F1418431F8CB92F004FB321 /* 3_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3_1.mp3; sourceTree = "<group>"; };
+		1F1418441F8CB92F004FB321 /* 4_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4_1.mp3; sourceTree = "<group>"; };
+		1F1418451F8CB92F004FB321 /* 5_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5_1.mp3; sourceTree = "<group>"; };
+		1F1418461F8CB92F004FB321 /* 6_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6_1.mp3; sourceTree = "<group>"; };
+		1F1418471F8CB92F004FB321 /* 7_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 7_1.mp3; sourceTree = "<group>"; };
+		1F1418481F8CB92F004FB321 /* 8_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 8_1.mp3; sourceTree = "<group>"; };
+		1F1418491F8CB92F004FB321 /* 9_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 9_1.mp3; sourceTree = "<group>"; };
+		1F14184B1F8CB92F004FB321 /* бабочка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "бабочка_1.mp3"; sourceTree = "<group>"; };
+		1F14184C1F8CB92F004FB321 /* богомол_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "богомол_1.mp3"; sourceTree = "<group>"; };
+		1F14184D1F8CB92F004FB321 /* божья коровка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "божья коровка_1.mp3"; sourceTree = "<group>"; };
+		1F14184E1F8CB92F004FB321 /* жук коллорадский_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "жук коллорадский_1.mp3"; sourceTree = "<group>"; };
+		1F14184F1F8CB92F004FB321 /* комар_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "комар_1.mp3"; sourceTree = "<group>"; };
+		1F1418501F8CB92F004FB321 /* кузнечик_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кузнечик_1.mp3"; sourceTree = "<group>"; };
+		1F1418511F8CB92F004FB321 /* муравей_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "муравей_1.mp3"; sourceTree = "<group>"; };
+		1F1418521F8CB92F004FB321 /* муха_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "муха_1.mp3"; sourceTree = "<group>"; };
+		1F1418531F8CB92F004FB321 /* пчела_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "пчела_1.mp3"; sourceTree = "<group>"; };
+		1F1418541F8CB92F004FB321 /* стрекоза_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стрекоза_1.mp3"; sourceTree = "<group>"; };
+		1F1418551F8CB92F004FB321 /* таракан_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "таракан_1.mp3"; sourceTree = "<group>"; };
+		1F1418571F8CB92F004FB321 /* брюки_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "брюки_1.mp3"; sourceTree = "<group>"; };
+		1F1418581F8CB92F004FB321 /* варежки_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "варежки_1.mp3"; sourceTree = "<group>"; };
+		1F1418591F8CB92F004FB321 /* доктор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "доктор_1.mp3"; sourceTree = "<group>"; };
+		1F14185A1F8CB92F004FB321 /* куртка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "куртка_1.mp3"; sourceTree = "<group>"; };
+		1F14185B1F8CB92F004FB321 /* майка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "майка_1.mp3"; sourceTree = "<group>"; };
+		1F14185C1F8CB92F004FB321 /* носки_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "носки_1.mp3"; sourceTree = "<group>"; };
+		1F14185D1F8CB92F004FB321 /* обувь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "обувь_1.mp3"; sourceTree = "<group>"; };
+		1F14185E1F8CB92F004FB321 /* платье_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "платье_1.mp3"; sourceTree = "<group>"; };
+		1F14185F1F8CB92F004FB321 /* сапоги_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "сапоги_1.mp3"; sourceTree = "<group>"; };
+		1F1418601F8CB92F004FB321 /* свитер_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "свитер_1.mp3"; sourceTree = "<group>"; };
+		1F1418611F8CB92F004FB321 /* шапка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "шапка_1.mp3"; sourceTree = "<group>"; };
+		1F1418621F8CB92F004FB321 /* юбка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "юбка_1.mp3"; sourceTree = "<group>"; };
+		1F1418641F8CB92F004FB321 /* ванна_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ванна_1.mp3"; sourceTree = "<group>"; };
+		1F1418651F8CB92F004FB321 /* вентилятор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "вентилятор_1.mp3"; sourceTree = "<group>"; };
+		1F1418661F8CB92F004FB321 /* вилка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "вилка_1.mp3"; sourceTree = "<group>"; };
+		1F1418671F8CB92F004FB321 /* дверь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "дверь_1.mp3"; sourceTree = "<group>"; };
+		1F1418681F8CB92F004FB321 /* диван_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "диван_1.mp3"; sourceTree = "<group>"; };
+		1F1418691F8CB92F004FB321 /* зонт_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "зонт_1.mp3"; sourceTree = "<group>"; };
+		1F14186A1F8CB92F004FB321 /* зубная щетка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "зубная щетка_1.mp3"; sourceTree = "<group>"; };
+		1F14186B1F8CB92F004FB321 /* кастрюля_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кастрюля_1.mp3"; sourceTree = "<group>"; };
+		1F14186C1F8CB92F004FB321 /* компьютер_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "компьютер_1.mp3"; sourceTree = "<group>"; };
+		1F14186D1F8CB92F004FB321 /* кран_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кран_1.mp3"; sourceTree = "<group>"; };
+		1F14186E1F8CB92F004FB321 /* кресло_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кресло_1.mp3"; sourceTree = "<group>"; };
+		1F14186F1F8CB92F004FB321 /* кровать_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кровать_1.mp3"; sourceTree = "<group>"; };
+		1F1418701F8CB92F004FB321 /* кружка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кружка_1.mp3"; sourceTree = "<group>"; };
+		1F1418711F8CB92F004FB321 /* лампа_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лампа_1.mp3"; sourceTree = "<group>"; };
+		1F1418721F8CB92F004FB321 /* ложка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ложка_1.mp3"; sourceTree = "<group>"; };
+		1F1418731F8CB92F004FB321 /* микроволновая печь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "микроволновая печь_1.mp3"; sourceTree = "<group>"; };
+		1F1418741F8CB92F004FB321 /* миксер_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "миксер_1.mp3"; sourceTree = "<group>"; };
+		1F1418751F8CB92F004FB321 /* нож_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "нож_1.mp3"; sourceTree = "<group>"; };
+		1F1418761F8CB92F004FB321 /* ножницы_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ножницы_1.mp3"; sourceTree = "<group>"; };
+		1F1418771F8CB92F004FB321 /* плита_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "плита_1.mp3"; sourceTree = "<group>"; };
+		1F1418781F8CB92F004FB321 /* поварешки_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "поварешки_1.mp3"; sourceTree = "<group>"; };
+		1F1418791F8CB92F004FB321 /* полотенца_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "полотенца_1.mp3"; sourceTree = "<group>"; };
+		1F14187A1F8CB92F004FB321 /* пылесос_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "пылесос_1.mp3"; sourceTree = "<group>"; };
+		1F14187B1F8CB92F004FB321 /* ручка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ручка_1.mp3"; sourceTree = "<group>"; };
+		1F14187C1F8CB92F004FB321 /* сковорода_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "сковорода_1.mp3"; sourceTree = "<group>"; };
+		1F14187D1F8CB92F004FB321 /* стакан_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стакан_1.mp3"; sourceTree = "<group>"; };
+		1F14187E1F8CB92F004FB321 /* стиральная машина_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стиральная машина_1.mp3"; sourceTree = "<group>"; };
+		1F14187F1F8CB92F004FB321 /* стол_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стол_1.mp3"; sourceTree = "<group>"; };
+		1F1418801F8CB92F004FB321 /* стул_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стул_1.mp3"; sourceTree = "<group>"; };
+		1F1418811F8CB92F004FB321 /* тарелка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "тарелка_1.mp3"; sourceTree = "<group>"; };
+		1F1418821F8CB92F004FB321 /* телефон_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "телефон_1.mp3"; sourceTree = "<group>"; };
+		1F1418831F8CB92F004FB321 /* терка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "терка_1.mp3"; sourceTree = "<group>"; };
+		1F1418841F8CB92F004FB321 /* утюг_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "утюг_1.mp3"; sourceTree = "<group>"; };
+		1F1418851F8CB92F004FB321 /* фен_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "фен_1.mp3"; sourceTree = "<group>"; };
+		1F1418861F8CB92F004FB321 /* холодильник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "холодильник_1.mp3"; sourceTree = "<group>"; };
+		1F1418871F8CB92F004FB321 /* чайник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "чайник_1.mp3"; sourceTree = "<group>"; };
+		1F1418881F8CB92F004FB321 /* часы_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "часы_1.mp3"; sourceTree = "<group>"; };
+		1F14188A1F8CB92F004FB321 /* аккордеон_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "аккордеон_1.mp3"; sourceTree = "<group>"; };
+		1F14188B1F8CB92F004FB321 /* арфа_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "арфа_1.mp3"; sourceTree = "<group>"; };
+		1F14188C1F8CB92F004FB321 /* балалайка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "балалайка_1.mp3"; sourceTree = "<group>"; };
+		1F14188D1F8CB92F004FB321 /* барабан_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "барабан_1.mp3"; sourceTree = "<group>"; };
+		1F14188E1F8CB92F004FB321 /* гитара_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "гитара_1.mp3"; sourceTree = "<group>"; };
+		1F14188F1F8CB92F004FB321 /* гусли_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "гусли_1.mp3"; sourceTree = "<group>"; };
+		1F1418901F8CB92F004FB321 /* пианино_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "пианино_1.mp3"; sourceTree = "<group>"; };
+		1F1418911F8CB92F004FB321 /* саксофон_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "саксофон_1.mp3"; sourceTree = "<group>"; };
+		1F1418921F8CB92F004FB321 /* скрипка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "скрипка_1.mp3"; sourceTree = "<group>"; };
+		1F1418931F8CB92F004FB321 /* труба_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "труба_1.mp3"; sourceTree = "<group>"; };
+		1F1418941F8CB92F004FB321 /* флейта_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "флейта_1.mp3"; sourceTree = "<group>"; };
+		1F1418961F8CB92F004FB321 /* абрикос_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "абрикос_1.mp3"; sourceTree = "<group>"; };
+		1F1418971F8CB92F004FB321 /* ананас_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ананас_1.mp3"; sourceTree = "<group>"; };
+		1F1418981F8CB92F004FB321 /* апельсин_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "апельсин_1.mp3"; sourceTree = "<group>"; };
+		1F1418991F8CB92F004FB321 /* арбуз_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "арбуз_1.mp3"; sourceTree = "<group>"; };
+		1F14189A1F8CB92F004FB321 /* банан_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "банан_1.mp3"; sourceTree = "<group>"; };
+		1F14189B1F8CB92F004FB321 /* виноград_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "виноград_1.mp3"; sourceTree = "<group>"; };
+		1F14189C1F8CB92F004FB321 /* вишня_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "вишня_1.mp3"; sourceTree = "<group>"; };
+		1F14189D1F8CB92F004FB321 /* гранат_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "гранат_1.mp3"; sourceTree = "<group>"; };
+		1F14189E1F8CB92F004FB321 /* груша_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "груша_1.mp3"; sourceTree = "<group>"; };
+		1F14189F1F8CB92F004FB321 /* дыня_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "дыня_1.mp3"; sourceTree = "<group>"; };
+		1F1418A01F8CB92F004FB321 /* киви_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "киви_1.mp3"; sourceTree = "<group>"; };
+		1F1418A11F8CB92F004FB321 /* клубника_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "клубника_1.mp3"; sourceTree = "<group>"; };
+		1F1418A21F8CB92F004FB321 /* крыжовник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "крыжовник_1.mp3"; sourceTree = "<group>"; };
+		1F1418A31F8CB92F004FB321 /* лимон_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лимон_1.mp3"; sourceTree = "<group>"; };
+		1F1418A41F8CB92F004FB321 /* малина_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "малина_1.mp3"; sourceTree = "<group>"; };
+		1F1418A51F8CB92F004FB321 /* мандарин_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "мандарин_1.mp3"; sourceTree = "<group>"; };
+		1F1418A61F8CB92F004FB321 /* персик_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "персик_1.mp3"; sourceTree = "<group>"; };
+		1F1418A71F8CB92F004FB321 /* слива_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "слива_1.mp3"; sourceTree = "<group>"; };
+		1F1418A81F8CB92F004FB321 /* смородина_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "смородина_1.mp3"; sourceTree = "<group>"; };
+		1F1418A91F8CB92F004FB321 /* черника_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "черника_1.mp3"; sourceTree = "<group>"; };
+		1F1418AA1F8CB92F004FB321 /* яблоко_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "яблоко_1.mp3"; sourceTree = "<group>"; };
+		1F1418AC1F8CB92F004FB321 /* автобус_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "автобус_1.mp3"; sourceTree = "<group>"; };
+		1F1418AD1F8CB92F004FB321 /* велосипед_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "велосипед_1.mp3"; sourceTree = "<group>"; };
+		1F1418AE1F8CB92F004FB321 /* вертолет_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "вертолет_1.mp3"; sourceTree = "<group>"; };
+		1F1418AF1F8CB92F004FB321 /* воздушный шар_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "воздушный шар_1.mp3"; sourceTree = "<group>"; };
+		1F1418B01F8CB92F004FB321 /* грузовик_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "грузовик_1.mp3"; sourceTree = "<group>"; };
+		1F1418B11F8CB92F004FB321 /* корабль_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "корабль_1.mp3"; sourceTree = "<group>"; };
+		1F1418B21F8CB92F004FB321 /* легковой автомобиль_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "легковой автомобиль_1.mp3"; sourceTree = "<group>"; };
+		1F1418B31F8CB92F004FB321 /* мотоцикл_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "мотоцикл_1.mp3"; sourceTree = "<group>"; };
+		1F1418B41F8CB92F004FB321 /* поезд_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "поезд_1.mp3"; sourceTree = "<group>"; };
+		1F1418B51F8CB92F004FB321 /* пожарная машина_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "пожарная машина_1.mp3"; sourceTree = "<group>"; };
+		1F1418B61F8CB92F004FB321 /* полицейская машина_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "полицейская машина_1.mp3"; sourceTree = "<group>"; };
+		1F1418B71F8CB92F004FB321 /* ракета_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ракета_1.mp3"; sourceTree = "<group>"; };
+		1F1418B81F8CB92F004FB321 /* самолет_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "самолет_1.mp3"; sourceTree = "<group>"; };
+		1F1418B91F8CB92F004FB321 /* скорая помощь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "скорая помощь_1.mp3"; sourceTree = "<group>"; };
+		1F1418BA1F8CB92F004FB321 /* трактор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "трактор_1.mp3"; sourceTree = "<group>"; };
+		1F1418BB1F8CB92F004FB321 /* экскаватор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "экскаватор_1.mp3"; sourceTree = "<group>"; };
+		1F1418BD1F8CB92F004FB321 /* дворник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "дворник_1.mp3"; sourceTree = "<group>"; };
+		1F1418BE1F8CB92F004FB321 /* клоун_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "клоун_1.mp3"; sourceTree = "<group>"; };
+		1F1418BF1F8CB92F004FB321 /* космонафт_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "космонафт_1.mp3"; sourceTree = "<group>"; };
+		1F1418C01F8CB92F004FB321 /* повар_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "повар_1.mp3"; sourceTree = "<group>"; };
+		1F1418C11F8CB92F004FB321 /* пожарный_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "пожарный_1.mp3"; sourceTree = "<group>"; };
+		1F1418C21F8CB92F004FB321 /* полицейский_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "полицейский_1.mp3"; sourceTree = "<group>"; };
+		1F1418C31F8CB92F004FB321 /* почтальон_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "почтальон_1.mp3"; sourceTree = "<group>"; };
+		1F1418C41F8CB92F004FB321 /* программист_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "программист_1.mp3"; sourceTree = "<group>"; };
+		1F1418C51F8CB92F004FB321 /* садовник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "садовник_1.mp3"; sourceTree = "<group>"; };
+		1F1418C61F8CB92F004FB321 /* учитель_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "учитель_1.mp3"; sourceTree = "<group>"; };
+		1F1418C71F8CB92F004FB321 /* художник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "художник_1.mp3"; sourceTree = "<group>"; };
+		1F1419B41F8CBBBC004FB321 /* обезьяна_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "обезьяна_1.mp3"; sourceTree = "<group>"; };
 		1F1CC0441F3A29CD00E920CA /* game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = game.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F1CC0471F3A29CD00E920CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1F1CC0491F3A29CD00E920CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -187,18 +532,11 @@
 		1F1FBC371F3FC3CD004B6517 /* headerReusableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = headerReusableView.swift; sourceTree = "<group>"; };
 		1F221EC71F4257B100177EB7 /* colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = colors.swift; sourceTree = "<group>"; };
 		1F22B6201F83CB8400629C1D /* photoPhotos.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = photoPhotos.xcassets; sourceTree = "<group>"; };
-		1F22B6241F83CEDC00629C1D /* 10_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 10_1.mp3; sourceTree = "<group>"; };
-		1F22B6251F83CEDC00629C1D /* 1_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1_1.mp3; sourceTree = "<group>"; };
-		1F22B6261F83CEDC00629C1D /* 2_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2_1.mp3; sourceTree = "<group>"; };
-		1F22B6271F83CEDC00629C1D /* 3_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3_1.mp3; sourceTree = "<group>"; };
-		1F22B6281F83CEDC00629C1D /* 4_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4_1.mp3; sourceTree = "<group>"; };
-		1F22B6291F83CEDC00629C1D /* 5_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5_1.mp3; sourceTree = "<group>"; };
-		1F22B62A1F83CEDC00629C1D /* 6_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6_1.mp3; sourceTree = "<group>"; };
-		1F22B62B1F83CEDC00629C1D /* 7_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 7_1.mp3; sourceTree = "<group>"; };
-		1F22B62C1F83CEDC00629C1D /* 8_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 8_1.mp3; sourceTree = "<group>"; };
-		1F22B62D1F83CEDC00629C1D /* 9_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 9_1.mp3; sourceTree = "<group>"; };
 		1F25D6651F3E862B003F64C3 /* twoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = twoViewController.swift; sourceTree = "<group>"; };
 		1F25D6671F3E8653003F64C3 /* settingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = settingViewController.swift; sourceTree = "<group>"; };
+		1F26D3B21F9011040020B41F /* coloros.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = coloros.xcassets; sourceTree = "<group>"; };
+		1F26D4221F9027B50020B41F /* photoAnimal.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = photoAnimal.xcassets; path = ../photoAnimal.xcassets; sourceTree = "<group>"; };
+		1F26D5D31F9046BE0020B41F /* bukvyPhoto.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = bukvyPhoto.xcassets; sourceTree = "<group>"; };
 		1F28D0DB1F7DD73600A7039B /* bukvy.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = bukvy.xcassets; sourceTree = "<group>"; };
 		1F2921281F7EDD1300CAB0C9 /* clothes.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = clothes.xcassets; sourceTree = "<group>"; };
 		1F29217F1F7EE24F00CAB0C9 /* home.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = home.xcassets; sourceTree = "<group>"; };
@@ -207,126 +545,6 @@
 		1F33E0191F7BE9E20068829D /* vegetablePhotos.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = vegetablePhotos.xcassets; sourceTree = "<group>"; };
 		1F33E01B1F7BEA0C0068829D /* fruitPhotos.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = fruitPhotos.xcassets; sourceTree = "<group>"; };
 		1F33E01D1F7BEA490068829D /* instrumentsPhoto.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = instrumentsPhoto.xcassets; sourceTree = "<group>"; };
-		1F50B6141F88435F00D41398 /* белый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "белый_1.mp3"; sourceTree = "<group>"; };
-		1F50B6151F88435F00D41398 /* голубой_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "голубой_1.mp3"; sourceTree = "<group>"; };
-		1F50B6161F88435F00D41398 /* желтый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "желтый_1.mp3"; sourceTree = "<group>"; };
-		1F50B6171F88435F00D41398 /* зеленый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "зеленый_1.mp3"; sourceTree = "<group>"; };
-		1F50B6181F88435F00D41398 /* коричневый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "коричневый_1.mp3"; sourceTree = "<group>"; };
-		1F50B6191F88435F00D41398 /* красный_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "красный_1.mp3"; sourceTree = "<group>"; };
-		1F50B61A1F88435F00D41398 /* оранжевый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "оранжевый_1.mp3"; sourceTree = "<group>"; };
-		1F50B61B1F88435F00D41398 /* розовый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "розовый_1.mp3"; sourceTree = "<group>"; };
-		1F50B61C1F88435F00D41398 /* синий_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "синий_1.mp3"; sourceTree = "<group>"; };
-		1F50B61D1F88435F00D41398 /* сиреневый_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "сиреневый_1.mp3"; sourceTree = "<group>"; };
-		1F50B61E1F88435F00D41398 /* черный_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "черный_1.mp3"; sourceTree = "<group>"; };
-		1F50B62B1F884C5A00D41398 /* ванна_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ванна_1.mp3"; sourceTree = "<group>"; };
-		1F50B62C1F884C5A00D41398 /* вентилятор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "вентилятор_1.mp3"; sourceTree = "<group>"; };
-		1F50B62D1F884C5A00D41398 /* вилка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "вилка_1.mp3"; sourceTree = "<group>"; };
-		1F50B62E1F884C5A00D41398 /* дверь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "дверь_1.mp3"; sourceTree = "<group>"; };
-		1F50B62F1F884C5A00D41398 /* диван_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "диван_1.mp3"; sourceTree = "<group>"; };
-		1F50B6301F884C5A00D41398 /* зонт_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "зонт_1.mp3"; sourceTree = "<group>"; };
-		1F50B6311F884C5A00D41398 /* зубная щетка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "зубная щетка_1.mp3"; sourceTree = "<group>"; };
-		1F50B6321F884C5A00D41398 /* кастрюля_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кастрюля_1.mp3"; sourceTree = "<group>"; };
-		1F50B6331F884C5A00D41398 /* компьютер_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "компьютер_1.mp3"; sourceTree = "<group>"; };
-		1F50B6341F884C5A00D41398 /* кран_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кран_1.mp3"; sourceTree = "<group>"; };
-		1F50B6351F884C5A00D41398 /* кресло_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кресло_1.mp3"; sourceTree = "<group>"; };
-		1F50B6361F884C5A00D41398 /* кровать_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кровать_1.mp3"; sourceTree = "<group>"; };
-		1F50B6371F884C5A00D41398 /* кружка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кружка_1.mp3"; sourceTree = "<group>"; };
-		1F50B6381F884C5A00D41398 /* лампа_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лампа_1.mp3"; sourceTree = "<group>"; };
-		1F50B6391F884C5A00D41398 /* ложка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ложка_1.mp3"; sourceTree = "<group>"; };
-		1F50B63A1F884C5A00D41398 /* микроволновая печь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "микроволновая печь_1.mp3"; sourceTree = "<group>"; };
-		1F50B63B1F884C5A00D41398 /* миксер_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "миксер_1.mp3"; sourceTree = "<group>"; };
-		1F50B63C1F884C5A00D41398 /* нож_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "нож_1.mp3"; sourceTree = "<group>"; };
-		1F50B63D1F884C5A00D41398 /* ножницы_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ножницы_1.mp3"; sourceTree = "<group>"; };
-		1F50B63E1F884C5A00D41398 /* плита_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "плита_1.mp3"; sourceTree = "<group>"; };
-		1F50B63F1F884C5A00D41398 /* поварешки_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "поварешки_1.mp3"; sourceTree = "<group>"; };
-		1F50B6411F884C5A00D41398 /* пылесос_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "пылесос_1.mp3"; sourceTree = "<group>"; };
-		1F50B6421F884C5A00D41398 /* ручка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ручка_1.mp3"; sourceTree = "<group>"; };
-		1F50B6431F884C5A00D41398 /* сковорода_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "сковорода_1.mp3"; sourceTree = "<group>"; };
-		1F50B6441F884C5A00D41398 /* стакан_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стакан_1.mp3"; sourceTree = "<group>"; };
-		1F50B6451F884C5A00D41398 /* стиральная машина_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стиральная машина_1.mp3"; sourceTree = "<group>"; };
-		1F50B6461F884C5A00D41398 /* стол_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стол_1.mp3"; sourceTree = "<group>"; };
-		1F50B6471F884C5A00D41398 /* стул_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "стул_1.mp3"; sourceTree = "<group>"; };
-		1F50B6481F884C5A00D41398 /* тарелка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "тарелка_1.mp3"; sourceTree = "<group>"; };
-		1F50B6491F884C5A00D41398 /* телефон_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "телефон_1.mp3"; sourceTree = "<group>"; };
-		1F50B64A1F884C5A00D41398 /* терка_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "терка_1.mp3"; sourceTree = "<group>"; };
-		1F50B64B1F884C5A00D41398 /* утюг_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "утюг_1.mp3"; sourceTree = "<group>"; };
-		1F50B64C1F884C5A00D41398 /* фен_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "фен_1.mp3"; sourceTree = "<group>"; };
-		1F50B64D1F884C5A00D41398 /* холодильник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "холодильник_1.mp3"; sourceTree = "<group>"; };
-		1F50B64E1F884C5A00D41398 /* чайник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "чайник_1.mp3"; sourceTree = "<group>"; };
-		1F50B64F1F884C5A00D41398 /* часы_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "часы_1.mp3"; sourceTree = "<group>"; };
-		1F50B6621F884C5A00D41398 /* звезда_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "звезда_1.mp3"; sourceTree = "<group>"; };
-		1F50B6631F884C5A00D41398 /* квадрат_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "квадрат_1.mp3"; sourceTree = "<group>"; };
-		1F50B6641F884C5A00D41398 /* круг_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "круг_1.mp3"; sourceTree = "<group>"; };
-		1F50B6651F884C5A00D41398 /* овал_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "овал_1.mp3"; sourceTree = "<group>"; };
-		1F50B6661F884C5A00D41398 /* полукруг_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "полукруг_1.mp3"; sourceTree = "<group>"; };
-		1F50B6671F884C5A00D41398 /* прямоугольник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "прямоугольник_1.mp3"; sourceTree = "<group>"; };
-		1F50B6681F884C5A00D41398 /* ромб_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ромб_1.mp3"; sourceTree = "<group>"; };
-		1F50B6691F884C5A00D41398 /* трапеция_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "трапеция_1.mp3"; sourceTree = "<group>"; };
-		1F50B66A1F884C5A00D41398 /* треугольник_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "треугольник_1.mp3"; sourceTree = "<group>"; };
-		1F50B66C1F884C5A00D41398 /* а_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "а_1.mp3"; sourceTree = "<group>"; };
-		1F50B66D1F884C5A00D41398 /* б_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "б_1.mp3"; sourceTree = "<group>"; };
-		1F50B66E1F884C5A00D41398 /* в_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "в_1.mp3"; sourceTree = "<group>"; };
-		1F50B66F1F884C5A00D41398 /* г_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "г_1.mp3"; sourceTree = "<group>"; };
-		1F50B6701F884C5A00D41398 /* д_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "д_1.mp3"; sourceTree = "<group>"; };
-		1F50B6711F884C5A00D41398 /* е_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "е_1.mp3"; sourceTree = "<group>"; };
-		1F50B6731F884C5A00D41398 /* ж_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ж_1.mp3"; sourceTree = "<group>"; };
-		1F50B6741F884C5A00D41398 /* з_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "з_1.mp3"; sourceTree = "<group>"; };
-		1F50B6751F884C5A00D41398 /* и_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "и_1.mp3"; sourceTree = "<group>"; };
-		1F50B6771F884C5A00D41398 /* к_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "к_1.mp3"; sourceTree = "<group>"; };
-		1F50B6781F884C5A00D41398 /* л_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "л_1.mp3"; sourceTree = "<group>"; };
-		1F50B6791F884C5A00D41398 /* м_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "м_1.mp3"; sourceTree = "<group>"; };
-		1F50B67A1F884C5A00D41398 /* н_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "н_1.mp3"; sourceTree = "<group>"; };
-		1F50B67B1F884C5A00D41398 /* о_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "о_1.mp3"; sourceTree = "<group>"; };
-		1F50B67C1F884C5A00D41398 /* п_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "п_1.mp3"; sourceTree = "<group>"; };
-		1F50B67D1F884C5A00D41398 /* р_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "р_1.mp3"; sourceTree = "<group>"; };
-		1F50B67E1F884C5A00D41398 /* с_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "с_1.mp3"; sourceTree = "<group>"; };
-		1F50B67F1F884C5A00D41398 /* т_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "т_1.mp3"; sourceTree = "<group>"; };
-		1F50B6801F884C5A00D41398 /* у_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "у_1.mp3"; sourceTree = "<group>"; };
-		1F50B6811F884C5A00D41398 /* ф_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ф_1.mp3"; sourceTree = "<group>"; };
-		1F50B6821F884C5A00D41398 /* х_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "х_1.mp3"; sourceTree = "<group>"; };
-		1F50B6831F884C5A00D41398 /* ц_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ц_1.mp3"; sourceTree = "<group>"; };
-		1F50B6841F884C5A00D41398 /* ч_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ч_1.mp3"; sourceTree = "<group>"; };
-		1F50B6851F884C5A00D41398 /* ш_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ш_1.mp3"; sourceTree = "<group>"; };
-		1F50B6861F884C5A00D41398 /* щ_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "щ_1.mp3"; sourceTree = "<group>"; };
-		1F50B6871F884C5A00D41398 /* ъ_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ъ_1.mp3"; sourceTree = "<group>"; };
-		1F50B6881F884C5A00D41398 /* ы_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ы_1.mp3"; sourceTree = "<group>"; };
-		1F50B6891F884C5A00D41398 /* ь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ь_1.mp3"; sourceTree = "<group>"; };
-		1F50B68A1F884C5A00D41398 /* э_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "э_1.mp3"; sourceTree = "<group>"; };
-		1F50B68B1F884C5A00D41398 /* ю_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ю_1.mp3"; sourceTree = "<group>"; };
-		1F50B68C1F884C5A00D41398 /* я_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "я_1.mp3"; sourceTree = "<group>"; };
-		1F50B68E1F884C5A00D41398 /* баклажан_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "баклажан_1.mp3"; sourceTree = "<group>"; };
-		1F50B68F1F884C5A00D41398 /* кабачок_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кабачок_1.mp3"; sourceTree = "<group>"; };
-		1F50B6901F884C5A00D41398 /* капуста_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "капуста_1.mp3"; sourceTree = "<group>"; };
-		1F50B6911F884C5A00D41398 /* картофель_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "картофель_1.mp3"; sourceTree = "<group>"; };
-		1F50B6921F884C5A00D41398 /* кукуруза_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "кукуруза_1.mp3"; sourceTree = "<group>"; };
-		1F50B6931F884C5A00D41398 /* лук_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "лук_1.mp3"; sourceTree = "<group>"; };
-		1F50B6941F884C5A00D41398 /* морковь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "морковь_1.mp3"; sourceTree = "<group>"; };
-		1F50B6951F884C5A00D41398 /* огурец_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "огурец_1.mp3"; sourceTree = "<group>"; };
-		1F50B6961F884C5A00D41398 /* перец_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "перец_1.mp3"; sourceTree = "<group>"; };
-		1F50B6971F884C5A00D41398 /* помидор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "помидор_1.mp3"; sourceTree = "<group>"; };
-		1F50B6981F884C5A00D41398 /* репа_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "репа_1.mp3"; sourceTree = "<group>"; };
-		1F50B6991F884C5A00D41398 /* свекла_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "свекла_1.mp3"; sourceTree = "<group>"; };
-		1F50B69A1F884C5A00D41398 /* тыква_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "тыква_1.mp3"; sourceTree = "<group>"; };
-		1F50B69B1F884C5A00D41398 /* укроп_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "укроп_1.mp3"; sourceTree = "<group>"; };
-		1F50B7091F8854FA00D41398 /* ё-1_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ё-1_1.mp3"; sourceTree = "<group>"; };
-		1F50B70A1F8854FA00D41398 /* й-1_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "й-1_1.mp3"; sourceTree = "<group>"; };
-		1F50B70E1F88560A00D41398 /* автобус_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "автобус_1.mp3"; sourceTree = "<group>"; };
-		1F50B70F1F88560A00D41398 /* велосипед_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "велосипед_1.mp3"; sourceTree = "<group>"; };
-		1F50B7101F88560A00D41398 /* вертолет_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "вертолет_1.mp3"; sourceTree = "<group>"; };
-		1F50B7111F88560A00D41398 /* воздушный шар_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "воздушный шар_1.mp3"; sourceTree = "<group>"; };
-		1F50B7121F88560A00D41398 /* грузовик_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "грузовик_1.mp3"; sourceTree = "<group>"; };
-		1F50B7131F88560A00D41398 /* корабль_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "корабль_1.mp3"; sourceTree = "<group>"; };
-		1F50B7141F88560A00D41398 /* легковой автомобиль_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "легковой автомобиль_1.mp3"; sourceTree = "<group>"; };
-		1F50B7151F88560A00D41398 /* мотоцикл_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "мотоцикл_1.mp3"; sourceTree = "<group>"; };
-		1F50B7161F88560A00D41398 /* поезд_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "поезд_1.mp3"; sourceTree = "<group>"; };
-		1F50B7181F88560A00D41398 /* полицейская машина_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "полицейская машина_1.mp3"; sourceTree = "<group>"; };
-		1F50B7191F88560A00D41398 /* ракета_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ракета_1.mp3"; sourceTree = "<group>"; };
-		1F50B71A1F88560A00D41398 /* самолет_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "самолет_1.mp3"; sourceTree = "<group>"; };
-		1F50B71B1F88560A00D41398 /* скорая помощь_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "скорая помощь_1.mp3"; sourceTree = "<group>"; };
-		1F50B71C1F88560A00D41398 /* трактор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "трактор_1.mp3"; sourceTree = "<group>"; };
-		1F50B71D1F88560A00D41398 /* экскаватор_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "экскаватор_1.mp3"; sourceTree = "<group>"; };
-		1F50B72E1F8856DF00D41398 /* пожарная машина_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "пожарная машина_1.mp3"; sourceTree = "<group>"; };
-		1F50B7301F88578600D41398 /* полотенца_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "полотенца_1.mp3"; sourceTree = "<group>"; };
 		1F6045B01F409996006761D7 /* customView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customView.swift; sourceTree = "<group>"; };
 		1F6045B41F40A095006761D7 /* photoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = photoViewController.swift; sourceTree = "<group>"; };
 		1F9E38271F3F49CD008FFF4F /* collectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = collectionViewController.swift; path = ../collectionViewController.swift; sourceTree = "<group>"; };
@@ -360,6 +578,333 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F1417CF1F8CB92E004FB321 /* алфавит */ = {
+			isa = PBXGroup;
+			children = (
+				1F1417D01F8CB92E004FB321 /* а_1.mp3 */,
+				1F1417D11F8CB92E004FB321 /* б_1.mp3 */,
+				1F1417D21F8CB92E004FB321 /* в_1.mp3 */,
+				1F1417D31F8CB92E004FB321 /* г_1.mp3 */,
+				1F1417D41F8CB92E004FB321 /* д_1.mp3 */,
+				1F1417D51F8CB92E004FB321 /* е_1.mp3 */,
+				1F1417D61F8CB92E004FB321 /* ё-1_1.mp3 */,
+				1F1417D71F8CB92E004FB321 /* ж_1.mp3 */,
+				1F1417D81F8CB92E004FB321 /* з_1.mp3 */,
+				1F1417D91F8CB92E004FB321 /* и_1.mp3 */,
+				1F1417DA1F8CB92E004FB321 /* й-1_1.mp3 */,
+				1F1417DB1F8CB92E004FB321 /* к_1.mp3 */,
+				1F1417DC1F8CB92E004FB321 /* л_1.mp3 */,
+				1F1417DD1F8CB92E004FB321 /* м_1.mp3 */,
+				1F1417DE1F8CB92E004FB321 /* н_1.mp3 */,
+				1F1417DF1F8CB92E004FB321 /* о_1.mp3 */,
+				1F1417E01F8CB92E004FB321 /* п_1.mp3 */,
+				1F1417E11F8CB92E004FB321 /* р_1.mp3 */,
+				1F1417E21F8CB92E004FB321 /* с_1.mp3 */,
+				1F1417E31F8CB92E004FB321 /* т_1.mp3 */,
+				1F1417E41F8CB92E004FB321 /* у_1.mp3 */,
+				1F1417E51F8CB92E004FB321 /* ф_1.mp3 */,
+				1F1417E61F8CB92E004FB321 /* х_1.mp3 */,
+				1F1417E71F8CB92E004FB321 /* ц_1.mp3 */,
+				1F1417E81F8CB92E004FB321 /* ч_1.mp3 */,
+				1F1417E91F8CB92E004FB321 /* ш_1.mp3 */,
+				1F1417EA1F8CB92E004FB321 /* щ_1.mp3 */,
+				1F1417EB1F8CB92E004FB321 /* ъ_1.mp3 */,
+				1F1417EC1F8CB92E004FB321 /* ы_1.mp3 */,
+				1F1417ED1F8CB92E004FB321 /* ь_1.mp3 */,
+				1F1417EE1F8CB92E004FB321 /* э_1.mp3 */,
+				1F1417EF1F8CB92E004FB321 /* ю_1.mp3 */,
+				1F1417F01F8CB92E004FB321 /* я_1.mp3 */,
+			);
+			path = "алфавит";
+			sourceTree = "<group>";
+		};
+		1F1417F11F8CB92E004FB321 /* животные */ = {
+			isa = PBXGroup;
+			children = (
+				1F1419B41F8CBBBC004FB321 /* обезьяна_1.mp3 */,
+				1F1417F21F8CB92E004FB321 /* акула_1.mp3 */,
+				1F1417F31F8CB92E004FB321 /* бегемот_1.mp3 */,
+				1F1417F41F8CB92E004FB321 /* верблюд_1.mp3 */,
+				1F1417F51F8CB92E004FB321 /* дельфин_1.mp3 */,
+				1F1417F61F8CB92E004FB321 /* ежик_1.mp3 */,
+				1F1417F71F8CB92E004FB321 /* жираф_1.mp3 */,
+				1F1417F81F8CB92E004FB321 /* заяц_1.mp3 */,
+				1F1417F91F8CB92E004FB321 /* зебра_1.mp3 */,
+				1F1417FA1F8CB92E004FB321 /* кит_1.mp3 */,
+				1F1417FB1F8CB92E004FB321 /* козел_1.mp3 */,
+				1F1417FC1F8CB92E004FB321 /* корова_1.mp3 */,
+				1F1417FD1F8CB92E004FB321 /* кошка_1.mp3 */,
+				1F1417FE1F8CB92E004FB321 /* крокодил_1.mp3 */,
+				1F1417FF1F8CB92E004FB321 /* курица_1.mp3 */,
+				1F1418001F8CB92E004FB321 /* лев_1.mp3 */,
+				1F1418011F8CB92E004FB321 /* леопард_1.mp3 */,
+				1F1418021F8CB92E004FB321 /* лиса_1.mp3 */,
+				1F1418031F8CB92E004FB321 /* лошадь_1.mp3 */,
+				1F1418041F8CB92E004FB321 /* лягушка_1.mp3 */,
+				1F1418051F8CB92E004FB321 /* медведь_1.mp3 */,
+				1F1418061F8CB92E004FB321 /* мышь_1.mp3 */,
+				1F1418071F8CB92E004FB321 /* носорог_1.mp3 */,
+				1F1418091F8CB92E004FB321 /* овца_1.mp3 */,
+				1F14180A1F8CB92E004FB321 /* олень_1.mp3 */,
+				1F14180B1F8CB92E004FB321 /* панда_1.mp3 */,
+				1F14180C1F8CB92E004FB321 /* петух_1.mp3 */,
+				1F14180D1F8CB92E004FB321 /* пингвин_1.mp3 */,
+				1F14180E1F8CB92E004FB321 /* попугай_1.mp3 */,
+				1F14180F1F8CB92E004FB321 /* птица_1.mp3 */,
+				1F1418101F8CB92E004FB321 /* рыба_1.mp3 */,
+				1F1418111F8CB92E004FB321 /* свинья_1.mp3 */,
+				1F1418121F8CB92E004FB321 /* слон_1.mp3 */,
+				1F1418131F8CB92E004FB321 /* собака_1.mp3 */,
+				1F1418141F8CB92E004FB321 /* сова_1.mp3 */,
+				1F1418151F8CB92E004FB321 /* тигр_1.mp3 */,
+				1F1418161F8CB92E004FB321 /* улитка_1.mp3 */,
+				1F1418171F8CB92E004FB321 /* утка_1.mp3 */,
+				1F1418181F8CB92E004FB321 /* цыпленок_1.mp3 */,
+				1F1418191F8CB92E004FB321 /* черепаха_1.mp3 */,
+			);
+			path = "животные";
+			sourceTree = "<group>";
+		};
+		1F14181A1F8CB92E004FB321 /* цвета */ = {
+			isa = PBXGroup;
+			children = (
+				1F14181B1F8CB92E004FB321 /* белый_1.mp3 */,
+				1F14181C1F8CB92E004FB321 /* голубой_1.mp3 */,
+				1F14181D1F8CB92E004FB321 /* желтый_1.mp3 */,
+				1F14181E1F8CB92E004FB321 /* зеленый_1.mp3 */,
+				1F14181F1F8CB92E004FB321 /* коричневый_1.mp3 */,
+				1F1418201F8CB92E004FB321 /* красный_1.mp3 */,
+				1F1418211F8CB92E004FB321 /* оранжевый_1.mp3 */,
+				1F1418221F8CB92F004FB321 /* розовый_1.mp3 */,
+				1F1418231F8CB92F004FB321 /* синий_1.mp3 */,
+				1F1418241F8CB92F004FB321 /* сиреневый_1.mp3 */,
+				1F1418251F8CB92F004FB321 /* черный_1.mp3 */,
+			);
+			path = "цвета";
+			sourceTree = "<group>";
+		};
+		1F1418261F8CB92F004FB321 /* геометрия */ = {
+			isa = PBXGroup;
+			children = (
+				1F1418271F8CB92F004FB321 /* звезда_1.mp3 */,
+				1F1418281F8CB92F004FB321 /* квадрат_1.mp3 */,
+				1F1418291F8CB92F004FB321 /* круг_1.mp3 */,
+				1F14182A1F8CB92F004FB321 /* овал_1.mp3 */,
+				1F14182B1F8CB92F004FB321 /* полукруг_1.mp3 */,
+				1F14182C1F8CB92F004FB321 /* прямоугольник_1.mp3 */,
+				1F14182D1F8CB92F004FB321 /* ромб_1.mp3 */,
+				1F14182E1F8CB92F004FB321 /* трапеция_1.mp3 */,
+				1F14182F1F8CB92F004FB321 /* треугольник_1.mp3 */,
+			);
+			path = "геометрия";
+			sourceTree = "<group>";
+		};
+		1F1418301F8CB92F004FB321 /* овощи */ = {
+			isa = PBXGroup;
+			children = (
+				1F1418311F8CB92F004FB321 /* баклажан_1.mp3 */,
+				1F1418321F8CB92F004FB321 /* кабачок_1.mp3 */,
+				1F1418331F8CB92F004FB321 /* капуста_1.mp3 */,
+				1F1418341F8CB92F004FB321 /* картофель_1.mp3 */,
+				1F1418351F8CB92F004FB321 /* кукуруза_1.mp3 */,
+				1F1418361F8CB92F004FB321 /* лук_1.mp3 */,
+				1F1418371F8CB92F004FB321 /* морковь_1.mp3 */,
+				1F1418381F8CB92F004FB321 /* огурец_1.mp3 */,
+				1F1418391F8CB92F004FB321 /* перец_1.mp3 */,
+				1F14183A1F8CB92F004FB321 /* помидор_1.mp3 */,
+				1F14183B1F8CB92F004FB321 /* репа_1.mp3 */,
+				1F14183C1F8CB92F004FB321 /* свекла_1.mp3 */,
+				1F14183D1F8CB92F004FB321 /* тыква_1.mp3 */,
+				1F14183E1F8CB92F004FB321 /* укроп_1.mp3 */,
+			);
+			path = "овощи";
+			sourceTree = "<group>";
+		};
+		1F14183F1F8CB92F004FB321 /* цифры */ = {
+			isa = PBXGroup;
+			children = (
+				1F1418401F8CB92F004FB321 /* 10_1.mp3 */,
+				1F1418411F8CB92F004FB321 /* 1_1.mp3 */,
+				1F1418421F8CB92F004FB321 /* 2_1.mp3 */,
+				1F1418431F8CB92F004FB321 /* 3_1.mp3 */,
+				1F1418441F8CB92F004FB321 /* 4_1.mp3 */,
+				1F1418451F8CB92F004FB321 /* 5_1.mp3 */,
+				1F1418461F8CB92F004FB321 /* 6_1.mp3 */,
+				1F1418471F8CB92F004FB321 /* 7_1.mp3 */,
+				1F1418481F8CB92F004FB321 /* 8_1.mp3 */,
+				1F1418491F8CB92F004FB321 /* 9_1.mp3 */,
+			);
+			path = "цифры";
+			sourceTree = "<group>";
+		};
+		1F14184A1F8CB92F004FB321 /* насекомые */ = {
+			isa = PBXGroup;
+			children = (
+				1F14184B1F8CB92F004FB321 /* бабочка_1.mp3 */,
+				1F14184C1F8CB92F004FB321 /* богомол_1.mp3 */,
+				1F14184D1F8CB92F004FB321 /* божья коровка_1.mp3 */,
+				1F14184E1F8CB92F004FB321 /* жук коллорадский_1.mp3 */,
+				1F14184F1F8CB92F004FB321 /* комар_1.mp3 */,
+				1F1418501F8CB92F004FB321 /* кузнечик_1.mp3 */,
+				1F1418511F8CB92F004FB321 /* муравей_1.mp3 */,
+				1F1418521F8CB92F004FB321 /* муха_1.mp3 */,
+				1F1418531F8CB92F004FB321 /* пчела_1.mp3 */,
+				1F1418541F8CB92F004FB321 /* стрекоза_1.mp3 */,
+				1F1418551F8CB92F004FB321 /* таракан_1.mp3 */,
+			);
+			path = "насекомые";
+			sourceTree = "<group>";
+		};
+		1F1418561F8CB92F004FB321 /* одежда */ = {
+			isa = PBXGroup;
+			children = (
+				1F1418571F8CB92F004FB321 /* брюки_1.mp3 */,
+				1F1418581F8CB92F004FB321 /* варежки_1.mp3 */,
+				1F1418591F8CB92F004FB321 /* доктор_1.mp3 */,
+				1F14185A1F8CB92F004FB321 /* куртка_1.mp3 */,
+				1F14185B1F8CB92F004FB321 /* майка_1.mp3 */,
+				1F14185C1F8CB92F004FB321 /* носки_1.mp3 */,
+				1F14185D1F8CB92F004FB321 /* обувь_1.mp3 */,
+				1F14185E1F8CB92F004FB321 /* платье_1.mp3 */,
+				1F14185F1F8CB92F004FB321 /* сапоги_1.mp3 */,
+				1F1418601F8CB92F004FB321 /* свитер_1.mp3 */,
+				1F1418611F8CB92F004FB321 /* шапка_1.mp3 */,
+				1F1418621F8CB92F004FB321 /* юбка_1.mp3 */,
+			);
+			path = "одежда";
+			sourceTree = "<group>";
+		};
+		1F1418631F8CB92F004FB321 /* дом */ = {
+			isa = PBXGroup;
+			children = (
+				1F1418641F8CB92F004FB321 /* ванна_1.mp3 */,
+				1F1418651F8CB92F004FB321 /* вентилятор_1.mp3 */,
+				1F1418661F8CB92F004FB321 /* вилка_1.mp3 */,
+				1F1418671F8CB92F004FB321 /* дверь_1.mp3 */,
+				1F1418681F8CB92F004FB321 /* диван_1.mp3 */,
+				1F1418691F8CB92F004FB321 /* зонт_1.mp3 */,
+				1F14186A1F8CB92F004FB321 /* зубная щетка_1.mp3 */,
+				1F14186B1F8CB92F004FB321 /* кастрюля_1.mp3 */,
+				1F14186C1F8CB92F004FB321 /* компьютер_1.mp3 */,
+				1F14186D1F8CB92F004FB321 /* кран_1.mp3 */,
+				1F14186E1F8CB92F004FB321 /* кресло_1.mp3 */,
+				1F14186F1F8CB92F004FB321 /* кровать_1.mp3 */,
+				1F1418701F8CB92F004FB321 /* кружка_1.mp3 */,
+				1F1418711F8CB92F004FB321 /* лампа_1.mp3 */,
+				1F1418721F8CB92F004FB321 /* ложка_1.mp3 */,
+				1F1418731F8CB92F004FB321 /* микроволновая печь_1.mp3 */,
+				1F1418741F8CB92F004FB321 /* миксер_1.mp3 */,
+				1F1418751F8CB92F004FB321 /* нож_1.mp3 */,
+				1F1418761F8CB92F004FB321 /* ножницы_1.mp3 */,
+				1F1418771F8CB92F004FB321 /* плита_1.mp3 */,
+				1F1418781F8CB92F004FB321 /* поварешки_1.mp3 */,
+				1F1418791F8CB92F004FB321 /* полотенца_1.mp3 */,
+				1F14187A1F8CB92F004FB321 /* пылесос_1.mp3 */,
+				1F14187B1F8CB92F004FB321 /* ручка_1.mp3 */,
+				1F14187C1F8CB92F004FB321 /* сковорода_1.mp3 */,
+				1F14187D1F8CB92F004FB321 /* стакан_1.mp3 */,
+				1F14187E1F8CB92F004FB321 /* стиральная машина_1.mp3 */,
+				1F14187F1F8CB92F004FB321 /* стол_1.mp3 */,
+				1F1418801F8CB92F004FB321 /* стул_1.mp3 */,
+				1F1418811F8CB92F004FB321 /* тарелка_1.mp3 */,
+				1F1418821F8CB92F004FB321 /* телефон_1.mp3 */,
+				1F1418831F8CB92F004FB321 /* терка_1.mp3 */,
+				1F1418841F8CB92F004FB321 /* утюг_1.mp3 */,
+				1F1418851F8CB92F004FB321 /* фен_1.mp3 */,
+				1F1418861F8CB92F004FB321 /* холодильник_1.mp3 */,
+				1F1418871F8CB92F004FB321 /* чайник_1.mp3 */,
+				1F1418881F8CB92F004FB321 /* часы_1.mp3 */,
+			);
+			path = "дом";
+			sourceTree = "<group>";
+		};
+		1F1418891F8CB92F004FB321 /* музыка */ = {
+			isa = PBXGroup;
+			children = (
+				1F14188A1F8CB92F004FB321 /* аккордеон_1.mp3 */,
+				1F14188B1F8CB92F004FB321 /* арфа_1.mp3 */,
+				1F14188C1F8CB92F004FB321 /* балалайка_1.mp3 */,
+				1F14188D1F8CB92F004FB321 /* барабан_1.mp3 */,
+				1F14188E1F8CB92F004FB321 /* гитара_1.mp3 */,
+				1F14188F1F8CB92F004FB321 /* гусли_1.mp3 */,
+				1F1418901F8CB92F004FB321 /* пианино_1.mp3 */,
+				1F1418911F8CB92F004FB321 /* саксофон_1.mp3 */,
+				1F1418921F8CB92F004FB321 /* скрипка_1.mp3 */,
+				1F1418931F8CB92F004FB321 /* труба_1.mp3 */,
+				1F1418941F8CB92F004FB321 /* флейта_1.mp3 */,
+			);
+			path = "музыка";
+			sourceTree = "<group>";
+		};
+		1F1418951F8CB92F004FB321 /* фрукты */ = {
+			isa = PBXGroup;
+			children = (
+				1F1418961F8CB92F004FB321 /* абрикос_1.mp3 */,
+				1F1418971F8CB92F004FB321 /* ананас_1.mp3 */,
+				1F1418981F8CB92F004FB321 /* апельсин_1.mp3 */,
+				1F1418991F8CB92F004FB321 /* арбуз_1.mp3 */,
+				1F14189A1F8CB92F004FB321 /* банан_1.mp3 */,
+				1F14189B1F8CB92F004FB321 /* виноград_1.mp3 */,
+				1F14189C1F8CB92F004FB321 /* вишня_1.mp3 */,
+				1F14189D1F8CB92F004FB321 /* гранат_1.mp3 */,
+				1F14189E1F8CB92F004FB321 /* груша_1.mp3 */,
+				1F14189F1F8CB92F004FB321 /* дыня_1.mp3 */,
+				1F1418A01F8CB92F004FB321 /* киви_1.mp3 */,
+				1F1418A11F8CB92F004FB321 /* клубника_1.mp3 */,
+				1F1418A21F8CB92F004FB321 /* крыжовник_1.mp3 */,
+				1F1418A31F8CB92F004FB321 /* лимон_1.mp3 */,
+				1F1418A41F8CB92F004FB321 /* малина_1.mp3 */,
+				1F1418A51F8CB92F004FB321 /* мандарин_1.mp3 */,
+				1F1418A61F8CB92F004FB321 /* персик_1.mp3 */,
+				1F1418A71F8CB92F004FB321 /* слива_1.mp3 */,
+				1F1418A81F8CB92F004FB321 /* смородина_1.mp3 */,
+				1F1418A91F8CB92F004FB321 /* черника_1.mp3 */,
+				1F1418AA1F8CB92F004FB321 /* яблоко_1.mp3 */,
+			);
+			path = "фрукты";
+			sourceTree = "<group>";
+		};
+		1F1418AB1F8CB92F004FB321 /* траснпорт */ = {
+			isa = PBXGroup;
+			children = (
+				1F1418AC1F8CB92F004FB321 /* автобус_1.mp3 */,
+				1F1418AD1F8CB92F004FB321 /* велосипед_1.mp3 */,
+				1F1418AE1F8CB92F004FB321 /* вертолет_1.mp3 */,
+				1F1418AF1F8CB92F004FB321 /* воздушный шар_1.mp3 */,
+				1F1418B01F8CB92F004FB321 /* грузовик_1.mp3 */,
+				1F1418B11F8CB92F004FB321 /* корабль_1.mp3 */,
+				1F1418B21F8CB92F004FB321 /* легковой автомобиль_1.mp3 */,
+				1F1418B31F8CB92F004FB321 /* мотоцикл_1.mp3 */,
+				1F1418B41F8CB92F004FB321 /* поезд_1.mp3 */,
+				1F1418B51F8CB92F004FB321 /* пожарная машина_1.mp3 */,
+				1F1418B61F8CB92F004FB321 /* полицейская машина_1.mp3 */,
+				1F1418B71F8CB92F004FB321 /* ракета_1.mp3 */,
+				1F1418B81F8CB92F004FB321 /* самолет_1.mp3 */,
+				1F1418B91F8CB92F004FB321 /* скорая помощь_1.mp3 */,
+				1F1418BA1F8CB92F004FB321 /* трактор_1.mp3 */,
+				1F1418BB1F8CB92F004FB321 /* экскаватор_1.mp3 */,
+			);
+			path = "траснпорт";
+			sourceTree = "<group>";
+		};
+		1F1418BC1F8CB92F004FB321 /* проффесии */ = {
+			isa = PBXGroup;
+			children = (
+				1F1418BD1F8CB92F004FB321 /* дворник_1.mp3 */,
+				1F1418BE1F8CB92F004FB321 /* клоун_1.mp3 */,
+				1F1418BF1F8CB92F004FB321 /* космонафт_1.mp3 */,
+				1F1418C01F8CB92F004FB321 /* повар_1.mp3 */,
+				1F1418C11F8CB92F004FB321 /* пожарный_1.mp3 */,
+				1F1418C21F8CB92F004FB321 /* полицейский_1.mp3 */,
+				1F1418C31F8CB92F004FB321 /* почтальон_1.mp3 */,
+				1F1418C41F8CB92F004FB321 /* программист_1.mp3 */,
+				1F1418C51F8CB92F004FB321 /* садовник_1.mp3 */,
+				1F1418C61F8CB92F004FB321 /* учитель_1.mp3 */,
+				1F1418C71F8CB92F004FB321 /* художник_1.mp3 */,
+			);
+			path = "проффесии";
+			sourceTree = "<group>";
+		};
 		1F1CC03B1F3A29CD00E920CA = {
 			isa = PBXGroup;
 			children = (
@@ -395,34 +940,23 @@
 		1F22B6221F83CEDC00629C1D /* слова */ = {
 			isa = PBXGroup;
 			children = (
-				1F50B70D1F88560A00D41398 /* траснпорт */,
-				1F50B66B1F884C5A00D41398 /* алфавит */,
-				1F50B6611F884C5A00D41398 /* геометрия */,
-				1F50B62A1F884C5A00D41398 /* дом */,
-				1F50B68D1F884C5A00D41398 /* овощи */,
-				1F50B6131F88435F00D41398 /* цвета */,
-				1F22B6231F83CEDC00629C1D /* цифры */,
+				1F1417CF1F8CB92E004FB321 /* алфавит */,
+				1F1418261F8CB92F004FB321 /* геометрия */,
+				1F1418631F8CB92F004FB321 /* дом */,
+				1F1417F11F8CB92E004FB321 /* животные */,
+				1F1418891F8CB92F004FB321 /* музыка */,
+				1F14184A1F8CB92F004FB321 /* насекомые */,
+				1F1418301F8CB92F004FB321 /* овощи */,
+				1F1418561F8CB92F004FB321 /* одежда */,
+				1F1418BC1F8CB92F004FB321 /* проффесии */,
+				1F1418AB1F8CB92F004FB321 /* траснпорт */,
+				1F1418951F8CB92F004FB321 /* фрукты */,
+				1F14181A1F8CB92E004FB321 /* цвета */,
+				1F14183F1F8CB92F004FB321 /* цифры */,
 			);
 			name = "слова";
 			path = "words/слова";
 			sourceTree = SOURCE_ROOT;
-		};
-		1F22B6231F83CEDC00629C1D /* цифры */ = {
-			isa = PBXGroup;
-			children = (
-				1F22B6241F83CEDC00629C1D /* 10_1.mp3 */,
-				1F22B6251F83CEDC00629C1D /* 1_1.mp3 */,
-				1F22B6261F83CEDC00629C1D /* 2_1.mp3 */,
-				1F22B6271F83CEDC00629C1D /* 3_1.mp3 */,
-				1F22B6281F83CEDC00629C1D /* 4_1.mp3 */,
-				1F22B6291F83CEDC00629C1D /* 5_1.mp3 */,
-				1F22B62A1F83CEDC00629C1D /* 6_1.mp3 */,
-				1F22B62B1F83CEDC00629C1D /* 7_1.mp3 */,
-				1F22B62C1F83CEDC00629C1D /* 8_1.mp3 */,
-				1F22B62D1F83CEDC00629C1D /* 9_1.mp3 */,
-			);
-			path = "цифры";
-			sourceTree = "<group>";
 		};
 		1F25D6601F3E4ECD003F64C3 /* storyboard */ = {
 			isa = PBXGroup;
@@ -480,175 +1014,16 @@
 		1F305E9D1F43CDD700AB4757 /* photo */ = {
 			isa = PBXGroup;
 			children = (
+				1F26D4221F9027B50020B41F /* photoAnimal.xcassets */,
+				1F26D3B21F9011040020B41F /* coloros.xcassets */,
 				1F22B6201F83CB8400629C1D /* photoPhotos.xcassets */,
 				1F305E9E1F43CDFB00AB4757 /* photoInsects.xcassets */,
 				1F33E0191F7BE9E20068829D /* vegetablePhotos.xcassets */,
 				1F33E01B1F7BEA0C0068829D /* fruitPhotos.xcassets */,
+				1F26D5D31F9046BE0020B41F /* bukvyPhoto.xcassets */,
 				1F33E01D1F7BEA490068829D /* instrumentsPhoto.xcassets */,
 			);
 			name = photo;
-			sourceTree = "<group>";
-		};
-		1F50B6131F88435F00D41398 /* цвета */ = {
-			isa = PBXGroup;
-			children = (
-				1F50B6141F88435F00D41398 /* белый_1.mp3 */,
-				1F50B6151F88435F00D41398 /* голубой_1.mp3 */,
-				1F50B6161F88435F00D41398 /* желтый_1.mp3 */,
-				1F50B6171F88435F00D41398 /* зеленый_1.mp3 */,
-				1F50B6181F88435F00D41398 /* коричневый_1.mp3 */,
-				1F50B6191F88435F00D41398 /* красный_1.mp3 */,
-				1F50B61A1F88435F00D41398 /* оранжевый_1.mp3 */,
-				1F50B61B1F88435F00D41398 /* розовый_1.mp3 */,
-				1F50B61C1F88435F00D41398 /* синий_1.mp3 */,
-				1F50B61D1F88435F00D41398 /* сиреневый_1.mp3 */,
-				1F50B61E1F88435F00D41398 /* черный_1.mp3 */,
-			);
-			path = "цвета";
-			sourceTree = "<group>";
-		};
-		1F50B62A1F884C5A00D41398 /* дом */ = {
-			isa = PBXGroup;
-			children = (
-				1F50B7301F88578600D41398 /* полотенца_1.mp3 */,
-				1F50B62B1F884C5A00D41398 /* ванна_1.mp3 */,
-				1F50B62C1F884C5A00D41398 /* вентилятор_1.mp3 */,
-				1F50B62D1F884C5A00D41398 /* вилка_1.mp3 */,
-				1F50B62E1F884C5A00D41398 /* дверь_1.mp3 */,
-				1F50B62F1F884C5A00D41398 /* диван_1.mp3 */,
-				1F50B6301F884C5A00D41398 /* зонт_1.mp3 */,
-				1F50B6311F884C5A00D41398 /* зубная щетка_1.mp3 */,
-				1F50B6321F884C5A00D41398 /* кастрюля_1.mp3 */,
-				1F50B6331F884C5A00D41398 /* компьютер_1.mp3 */,
-				1F50B6341F884C5A00D41398 /* кран_1.mp3 */,
-				1F50B6351F884C5A00D41398 /* кресло_1.mp3 */,
-				1F50B6361F884C5A00D41398 /* кровать_1.mp3 */,
-				1F50B6371F884C5A00D41398 /* кружка_1.mp3 */,
-				1F50B6381F884C5A00D41398 /* лампа_1.mp3 */,
-				1F50B6391F884C5A00D41398 /* ложка_1.mp3 */,
-				1F50B63A1F884C5A00D41398 /* микроволновая печь_1.mp3 */,
-				1F50B63B1F884C5A00D41398 /* миксер_1.mp3 */,
-				1F50B63C1F884C5A00D41398 /* нож_1.mp3 */,
-				1F50B63D1F884C5A00D41398 /* ножницы_1.mp3 */,
-				1F50B63E1F884C5A00D41398 /* плита_1.mp3 */,
-				1F50B63F1F884C5A00D41398 /* поварешки_1.mp3 */,
-				1F50B6411F884C5A00D41398 /* пылесос_1.mp3 */,
-				1F50B6421F884C5A00D41398 /* ручка_1.mp3 */,
-				1F50B6431F884C5A00D41398 /* сковорода_1.mp3 */,
-				1F50B6441F884C5A00D41398 /* стакан_1.mp3 */,
-				1F50B6451F884C5A00D41398 /* стиральная машина_1.mp3 */,
-				1F50B6461F884C5A00D41398 /* стол_1.mp3 */,
-				1F50B6471F884C5A00D41398 /* стул_1.mp3 */,
-				1F50B6481F884C5A00D41398 /* тарелка_1.mp3 */,
-				1F50B6491F884C5A00D41398 /* телефон_1.mp3 */,
-				1F50B64A1F884C5A00D41398 /* терка_1.mp3 */,
-				1F50B64B1F884C5A00D41398 /* утюг_1.mp3 */,
-				1F50B64C1F884C5A00D41398 /* фен_1.mp3 */,
-				1F50B64D1F884C5A00D41398 /* холодильник_1.mp3 */,
-				1F50B64E1F884C5A00D41398 /* чайник_1.mp3 */,
-				1F50B64F1F884C5A00D41398 /* часы_1.mp3 */,
-			);
-			path = "дом";
-			sourceTree = "<group>";
-		};
-		1F50B6611F884C5A00D41398 /* геометрия */ = {
-			isa = PBXGroup;
-			children = (
-				1F50B6621F884C5A00D41398 /* звезда_1.mp3 */,
-				1F50B6631F884C5A00D41398 /* квадрат_1.mp3 */,
-				1F50B6641F884C5A00D41398 /* круг_1.mp3 */,
-				1F50B6651F884C5A00D41398 /* овал_1.mp3 */,
-				1F50B6661F884C5A00D41398 /* полукруг_1.mp3 */,
-				1F50B6671F884C5A00D41398 /* прямоугольник_1.mp3 */,
-				1F50B6681F884C5A00D41398 /* ромб_1.mp3 */,
-				1F50B6691F884C5A00D41398 /* трапеция_1.mp3 */,
-				1F50B66A1F884C5A00D41398 /* треугольник_1.mp3 */,
-			);
-			path = "геометрия";
-			sourceTree = "<group>";
-		};
-		1F50B66B1F884C5A00D41398 /* алфавит */ = {
-			isa = PBXGroup;
-			children = (
-				1F50B7091F8854FA00D41398 /* ё-1_1.mp3 */,
-				1F50B70A1F8854FA00D41398 /* й-1_1.mp3 */,
-				1F50B66C1F884C5A00D41398 /* а_1.mp3 */,
-				1F50B66D1F884C5A00D41398 /* б_1.mp3 */,
-				1F50B66E1F884C5A00D41398 /* в_1.mp3 */,
-				1F50B66F1F884C5A00D41398 /* г_1.mp3 */,
-				1F50B6701F884C5A00D41398 /* д_1.mp3 */,
-				1F50B6711F884C5A00D41398 /* е_1.mp3 */,
-				1F50B6731F884C5A00D41398 /* ж_1.mp3 */,
-				1F50B6741F884C5A00D41398 /* з_1.mp3 */,
-				1F50B6751F884C5A00D41398 /* и_1.mp3 */,
-				1F50B6771F884C5A00D41398 /* к_1.mp3 */,
-				1F50B6781F884C5A00D41398 /* л_1.mp3 */,
-				1F50B6791F884C5A00D41398 /* м_1.mp3 */,
-				1F50B67A1F884C5A00D41398 /* н_1.mp3 */,
-				1F50B67B1F884C5A00D41398 /* о_1.mp3 */,
-				1F50B67C1F884C5A00D41398 /* п_1.mp3 */,
-				1F50B67D1F884C5A00D41398 /* р_1.mp3 */,
-				1F50B67E1F884C5A00D41398 /* с_1.mp3 */,
-				1F50B67F1F884C5A00D41398 /* т_1.mp3 */,
-				1F50B6801F884C5A00D41398 /* у_1.mp3 */,
-				1F50B6811F884C5A00D41398 /* ф_1.mp3 */,
-				1F50B6821F884C5A00D41398 /* х_1.mp3 */,
-				1F50B6831F884C5A00D41398 /* ц_1.mp3 */,
-				1F50B6841F884C5A00D41398 /* ч_1.mp3 */,
-				1F50B6851F884C5A00D41398 /* ш_1.mp3 */,
-				1F50B6861F884C5A00D41398 /* щ_1.mp3 */,
-				1F50B6871F884C5A00D41398 /* ъ_1.mp3 */,
-				1F50B6881F884C5A00D41398 /* ы_1.mp3 */,
-				1F50B6891F884C5A00D41398 /* ь_1.mp3 */,
-				1F50B68A1F884C5A00D41398 /* э_1.mp3 */,
-				1F50B68B1F884C5A00D41398 /* ю_1.mp3 */,
-				1F50B68C1F884C5A00D41398 /* я_1.mp3 */,
-			);
-			path = "алфавит";
-			sourceTree = "<group>";
-		};
-		1F50B68D1F884C5A00D41398 /* овощи */ = {
-			isa = PBXGroup;
-			children = (
-				1F50B68E1F884C5A00D41398 /* баклажан_1.mp3 */,
-				1F50B68F1F884C5A00D41398 /* кабачок_1.mp3 */,
-				1F50B6901F884C5A00D41398 /* капуста_1.mp3 */,
-				1F50B6911F884C5A00D41398 /* картофель_1.mp3 */,
-				1F50B6921F884C5A00D41398 /* кукуруза_1.mp3 */,
-				1F50B6931F884C5A00D41398 /* лук_1.mp3 */,
-				1F50B6941F884C5A00D41398 /* морковь_1.mp3 */,
-				1F50B6951F884C5A00D41398 /* огурец_1.mp3 */,
-				1F50B6961F884C5A00D41398 /* перец_1.mp3 */,
-				1F50B6971F884C5A00D41398 /* помидор_1.mp3 */,
-				1F50B6981F884C5A00D41398 /* репа_1.mp3 */,
-				1F50B6991F884C5A00D41398 /* свекла_1.mp3 */,
-				1F50B69A1F884C5A00D41398 /* тыква_1.mp3 */,
-				1F50B69B1F884C5A00D41398 /* укроп_1.mp3 */,
-			);
-			path = "овощи";
-			sourceTree = "<group>";
-		};
-		1F50B70D1F88560A00D41398 /* траснпорт */ = {
-			isa = PBXGroup;
-			children = (
-				1F50B72E1F8856DF00D41398 /* пожарная машина_1.mp3 */,
-				1F50B70E1F88560A00D41398 /* автобус_1.mp3 */,
-				1F50B70F1F88560A00D41398 /* велосипед_1.mp3 */,
-				1F50B7101F88560A00D41398 /* вертолет_1.mp3 */,
-				1F50B7111F88560A00D41398 /* воздушный шар_1.mp3 */,
-				1F50B7121F88560A00D41398 /* грузовик_1.mp3 */,
-				1F50B7131F88560A00D41398 /* корабль_1.mp3 */,
-				1F50B7141F88560A00D41398 /* легковой автомобиль_1.mp3 */,
-				1F50B7151F88560A00D41398 /* мотоцикл_1.mp3 */,
-				1F50B7161F88560A00D41398 /* поезд_1.mp3 */,
-				1F50B7181F88560A00D41398 /* полицейская машина_1.mp3 */,
-				1F50B7191F88560A00D41398 /* ракета_1.mp3 */,
-				1F50B71A1F88560A00D41398 /* самолет_1.mp3 */,
-				1F50B71B1F88560A00D41398 /* скорая помощь_1.mp3 */,
-				1F50B71C1F88560A00D41398 /* трактор_1.mp3 */,
-				1F50B71D1F88560A00D41398 /* экскаватор_1.mp3 */,
-			);
-			path = "траснпорт";
 			sourceTree = "<group>";
 		};
 		1F6045B31F4099A9006761D7 /* UI */ = {
@@ -790,159 +1165,268 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F50B6F01F884C5A00D41398 /* х_1.mp3 in Resources */,
-				1F50B6FB1F884C5A00D41398 /* баклажан_1.mp3 in Resources */,
-				1F50B6E51F884C5A00D41398 /* к_1.mp3 in Resources */,
-				1F50B69F1F884C5A00D41398 /* дверь_1.mp3 in Resources */,
-				1F50B6A31F884C5A00D41398 /* кастрюля_1.mp3 in Resources */,
-				1F50B6AC1F884C5A00D41398 /* миксер_1.mp3 in Resources */,
-				1F50B7311F88578700D41398 /* полотенца_1.mp3 in Resources */,
-				1F50B6BE1F884C5A00D41398 /* холодильник_1.mp3 in Resources */,
+				1F1419711F8CB930004FB321 /* тарелка_1.mp3 in Resources */,
+				1F14192E1F8CB930004FB321 /* помидор_1.mp3 in Resources */,
+				1F1418DB1F8CB92F004FB321 /* т_1.mp3 in Resources */,
+				1F1419A41F8CB930004FB321 /* ракета_1.mp3 in Resources */,
+				1F14199A1F8CB930004FB321 /* велосипед_1.mp3 in Resources */,
+				1F1419881F8CB930004FB321 /* банан_1.mp3 in Resources */,
+				1F1418EA1F8CB92F004FB321 /* бегемот_1.mp3 in Resources */,
 				1F2922E01F7EE4F900CAB0C9 /* transport.xcassets in Resources */,
-				1F50B6EB1F884C5A00D41398 /* р_1.mp3 in Resources */,
-				1F50B6241F88435F00D41398 /* красный_1.mp3 in Resources */,
+				1F1419A61F8CB930004FB321 /* скорая помощь_1.mp3 in Resources */,
+				1F14193F1F8CB930004FB321 /* божья коровка_1.mp3 in Resources */,
+				1F14197E1F8CB930004FB321 /* гусли_1.mp3 in Resources */,
+				1F26D4231F9027B50020B41F /* photoAnimal.xcassets in Resources */,
+				1F1418CC1F8CB92F004FB321 /* д_1.mp3 in Resources */,
+				1F14198E1F8CB930004FB321 /* киви_1.mp3 in Resources */,
+				1F1419081F8CB930004FB321 /* свинья_1.mp3 in Resources */,
+				1F1419041F8CB92F004FB321 /* пингвин_1.mp3 in Resources */,
+				1F1418CD1F8CB92F004FB321 /* е_1.mp3 in Resources */,
+				1F1418CE1F8CB92F004FB321 /* ё-1_1.mp3 in Resources */,
+				1F1419191F8CB930004FB321 /* синий_1.mp3 in Resources */,
+				1F1419561F8CB930004FB321 /* вилка_1.mp3 in Resources */,
+				1F1419441F8CB930004FB321 /* муха_1.mp3 in Resources */,
+				1F1419771F8CB930004FB321 /* чайник_1.mp3 in Resources */,
+				1F14194B1F8CB930004FB321 /* куртка_1.mp3 in Resources */,
+				1F1418F21F8CB92F004FB321 /* козел_1.mp3 in Resources */,
+				1F14192F1F8CB930004FB321 /* репа_1.mp3 in Resources */,
+				1F1418FC1F8CB92F004FB321 /* медведь_1.mp3 in Resources */,
+				1F1419901F8CB930004FB321 /* крыжовник_1.mp3 in Resources */,
+				1F1418F31F8CB92F004FB321 /* корова_1.mp3 in Resources */,
+				1F14198B1F8CB930004FB321 /* гранат_1.mp3 in Resources */,
+				1F1419151F8CB930004FB321 /* коричневый_1.mp3 in Resources */,
+				1F1419891F8CB930004FB321 /* виноград_1.mp3 in Resources */,
+				1F1419111F8CB930004FB321 /* белый_1.mp3 in Resources */,
+				1F1418F51F8CB92F004FB321 /* крокодил_1.mp3 in Resources */,
 				1FED7A131F450755002C210E /* Podfile in Resources */,
-				1F50B6281F88435F00D41398 /* сиреневый_1.mp3 in Resources */,
-				1F50B61F1F88435F00D41398 /* белый_1.mp3 in Resources */,
-				1F50B6E81F884C5A00D41398 /* н_1.mp3 in Resources */,
+				1F1418E21F8CB92F004FB321 /* щ_1.mp3 in Resources */,
+				1F14196C1F8CB930004FB321 /* сковорода_1.mp3 in Resources */,
+				1F1419451F8CB930004FB321 /* пчела_1.mp3 in Resources */,
+				1F14195F1F8CB930004FB321 /* кровать_1.mp3 in Resources */,
+				1F1419AA1F8CB930004FB321 /* клоун_1.mp3 in Resources */,
+				1F1418DD1F8CB92F004FB321 /* ф_1.mp3 in Resources */,
+				1F14196B1F8CB930004FB321 /* ручка_1.mp3 in Resources */,
+				1F1419391F8CB930004FB321 /* 6_1.mp3 in Resources */,
+				1F1419A51F8CB930004FB321 /* самолет_1.mp3 in Resources */,
+				1F1419831F8CB930004FB321 /* флейта_1.mp3 in Resources */,
+				1F14198D1F8CB930004FB321 /* дыня_1.mp3 in Resources */,
+				1F1419181F8CB930004FB321 /* розовый_1.mp3 in Resources */,
+				1F1418C91F8CB92F004FB321 /* б_1.mp3 in Resources */,
 				1F28D0DC1F7DD73600A7039B /* bukvy.xcassets in Resources */,
+				1F1419731F8CB930004FB321 /* терка_1.mp3 in Resources */,
 				1F1CC0551F3A29CD00E920CA /* LaunchScreen.storyboard in Resources */,
-				1F50B6F21F884C5A00D41398 /* ч_1.mp3 in Resources */,
-				1F50B6D61F884C5A00D41398 /* прямоугольник_1.mp3 in Resources */,
-				1F50B6261F88435F00D41398 /* розовый_1.mp3 in Resources */,
-				1F50B72A1F88560A00D41398 /* самолет_1.mp3 in Resources */,
+				1F1419091F8CB930004FB321 /* слон_1.mp3 in Resources */,
+				1F14199E1F8CB930004FB321 /* корабль_1.mp3 in Resources */,
+				1F1419871F8CB930004FB321 /* арбуз_1.mp3 in Resources */,
+				1F1419381F8CB930004FB321 /* 5_1.mp3 in Resources */,
 				1FF4EBAA1F7F0EB800A79855 /* proffessions.xcassets in Resources */,
-				1F50B6A71F884C5A00D41398 /* кровать_1.mp3 in Resources */,
-				1F50B7211F88560A00D41398 /* воздушный шар_1.mp3 in Resources */,
-				1F50B6D71F884C5A00D41398 /* ромб_1.mp3 in Resources */,
-				1F50B6DA1F884C5A00D41398 /* а_1.mp3 in Resources */,
-				1F50B6BB1F884C5A00D41398 /* терка_1.mp3 in Resources */,
-				1F50B7031F884C5A00D41398 /* перец_1.mp3 in Resources */,
-				1F50B6EF1F884C5A00D41398 /* ф_1.mp3 in Resources */,
-				1F50B6251F88435F00D41398 /* оранжевый_1.mp3 in Resources */,
-				1F50B6FD1F884C5A00D41398 /* капуста_1.mp3 in Resources */,
-				1F50B6D31F884C5A00D41398 /* круг_1.mp3 in Resources */,
-				1F22B6301F83CEDC00629C1D /* 2_1.mp3 in Resources */,
-				1F50B6201F88435F00D41398 /* голубой_1.mp3 in Resources */,
-				1F50B6B61F884C5A00D41398 /* стиральная машина_1.mp3 in Resources */,
+				1F14190E1F8CB930004FB321 /* утка_1.mp3 in Resources */,
+				1F1418F41F8CB92F004FB321 /* кошка_1.mp3 in Resources */,
+				1F14191B1F8CB930004FB321 /* черный_1.mp3 in Resources */,
+				1F1419641F8CB930004FB321 /* миксер_1.mp3 in Resources */,
+				1F14191A1F8CB930004FB321 /* сиреневый_1.mp3 in Resources */,
+				1F14198C1F8CB930004FB321 /* груша_1.mp3 in Resources */,
+				1F1419011F8CB92F004FB321 /* олень_1.mp3 in Resources */,
+				1F26D3B31F9011040020B41F /* coloros.xcassets in Resources */,
+				1F1419421F8CB930004FB321 /* кузнечик_1.mp3 in Resources */,
+				1F1418EE1F8CB92F004FB321 /* жираф_1.mp3 in Resources */,
+				1F14195E1F8CB930004FB321 /* кресло_1.mp3 in Resources */,
+				1F1419611F8CB930004FB321 /* лампа_1.mp3 in Resources */,
+				1F1418E81F8CB92F004FB321 /* я_1.mp3 in Resources */,
+				1F1419911F8CB930004FB321 /* лимон_1.mp3 in Resources */,
+				1F1419241F8CB930004FB321 /* треугольник_1.mp3 in Resources */,
+				1F14190D1F8CB930004FB321 /* улитка_1.mp3 in Resources */,
+				1F1418FB1F8CB92F004FB321 /* лягушка_1.mp3 in Resources */,
+				1F1419961F8CB930004FB321 /* смородина_1.mp3 in Resources */,
+				1F1419051F8CB92F004FB321 /* попугай_1.mp3 in Resources */,
+				1F1419401F8CB930004FB321 /* жук коллорадский_1.mp3 in Resources */,
+				1F1419161F8CB930004FB321 /* красный_1.mp3 in Resources */,
+				1F1419301F8CB930004FB321 /* свекла_1.mp3 in Resources */,
+				1F1418E41F8CB92F004FB321 /* ы_1.mp3 in Resources */,
+				1F1419971F8CB930004FB321 /* черника_1.mp3 in Resources */,
+				1F1419741F8CB930004FB321 /* утюг_1.mp3 in Resources */,
+				1F14194A1F8CB930004FB321 /* доктор_1.mp3 in Resources */,
+				1F1418F91F8CB92F004FB321 /* лиса_1.mp3 in Resources */,
+				1F14193D1F8CB930004FB321 /* бабочка_1.mp3 in Resources */,
+				1F1418E51F8CB92F004FB321 /* ь_1.mp3 in Resources */,
 				1FEB53CA1F427B5400257447 /* Colors.xcassets in Resources */,
+				1F1418E01F8CB92F004FB321 /* ч_1.mp3 in Resources */,
+				1F1419221F8CB930004FB321 /* ромб_1.mp3 in Resources */,
 				1FEB53CC1F427C9100257447 /* Fruits.xcassets in Resources */,
-				1F50B7051F884C5A00D41398 /* репа_1.mp3 in Resources */,
+				1F1419661F8CB930004FB321 /* ножницы_1.mp3 in Resources */,
+				1F1418E31F8CB92F004FB321 /* ъ_1.mp3 in Resources */,
+				1F1418DF1F8CB92F004FB321 /* ц_1.mp3 in Resources */,
+				1F1419551F8CB930004FB321 /* вентилятор_1.mp3 in Resources */,
+				1F14196F1F8CB930004FB321 /* стол_1.mp3 in Resources */,
+				1F14193B1F8CB930004FB321 /* 8_1.mp3 in Resources */,
 				1FAC0A8B1F6B3B2A00B6A170 /* figures.xcassets in Resources */,
-				1F50B6DB1F884C5A00D41398 /* б_1.mp3 in Resources */,
-				1F50B7291F88560A00D41398 /* ракета_1.mp3 in Resources */,
+				1F1418DA1F8CB92F004FB321 /* с_1.mp3 in Resources */,
+				1F1419991F8CB930004FB321 /* автобус_1.mp3 in Resources */,
+				1F1419821F8CB930004FB321 /* труба_1.mp3 in Resources */,
+				1F1418D71F8CB92F004FB321 /* о_1.mp3 in Resources */,
+				1F14192D1F8CB930004FB321 /* перец_1.mp3 in Resources */,
+				1F1419071F8CB930004FB321 /* рыба_1.mp3 in Resources */,
+				1F1419541F8CB930004FB321 /* ванна_1.mp3 in Resources */,
+				1F1419AD1F8CB930004FB321 /* пожарный_1.mp3 in Resources */,
+				1F1419631F8CB930004FB321 /* микроволновая печь_1.mp3 in Resources */,
+				1F1418D61F8CB92F004FB321 /* н_1.mp3 in Resources */,
+				1F1419601F8CB930004FB321 /* кружка_1.mp3 in Resources */,
+				1F1419781F8CB930004FB321 /* часы_1.mp3 in Resources */,
+				1F14195A1F8CB930004FB321 /* зубная щетка_1.mp3 in Resources */,
+				1F1419521F8CB930004FB321 /* шапка_1.mp3 in Resources */,
+				1F1418E11F8CB92F004FB321 /* ш_1.mp3 in Resources */,
+				1F14199F1F8CB930004FB321 /* легковой автомобиль_1.mp3 in Resources */,
+				1F1419791F8CB930004FB321 /* аккордеон_1.mp3 in Resources */,
+				1F1418E61F8CB92F004FB321 /* э_1.mp3 in Resources */,
+				1F14195C1F8CB930004FB321 /* компьютер_1.mp3 in Resources */,
+				1F1419AF1F8CB930004FB321 /* почтальон_1.mp3 in Resources */,
+				1F1419B01F8CB930004FB321 /* программист_1.mp3 in Resources */,
+				1F1419331F8CB930004FB321 /* 10_1.mp3 in Resources */,
+				1F1418D01F8CB92F004FB321 /* з_1.mp3 in Resources */,
+				1F1419031F8CB92F004FB321 /* петух_1.mp3 in Resources */,
+				1F1418CF1F8CB92F004FB321 /* ж_1.mp3 in Resources */,
+				1F14199B1F8CB930004FB321 /* вертолет_1.mp3 in Resources */,
+				1F1419231F8CB930004FB321 /* трапеция_1.mp3 in Resources */,
 				1FAC091B1F6AB72E00B6A170 /* music.xcassets in Resources */,
-				1F50B6E71F884C5A00D41398 /* м_1.mp3 in Resources */,
+				1F1419671F8CB930004FB321 /* плита_1.mp3 in Resources */,
+				1F14199C1F8CB930004FB321 /* воздушный шар_1.mp3 in Resources */,
+				1F1419201F8CB930004FB321 /* полукруг_1.mp3 in Resources */,
+				1F1418FE1F8CB92F004FB321 /* носорог_1.mp3 in Resources */,
+				1F1419A21F8CB930004FB321 /* пожарная машина_1.mp3 in Resources */,
+				1F1419481F8CB930004FB321 /* брюки_1.mp3 in Resources */,
+				1F1419801F8CB930004FB321 /* саксофон_1.mp3 in Resources */,
+				1F1419721F8CB930004FB321 /* телефон_1.mp3 in Resources */,
 				1F33E01A1F7BE9E20068829D /* vegetablePhotos.xcassets in Resources */,
+				1F1419651F8CB930004FB321 /* нож_1.mp3 in Resources */,
+				1F1418CA1F8CB92F004FB321 /* в_1.mp3 in Resources */,
+				1F1419B31F8CB930004FB321 /* художник_1.mp3 in Resources */,
+				1F14198F1F8CB930004FB321 /* клубника_1.mp3 in Resources */,
+				1F14197B1F8CB930004FB321 /* балалайка_1.mp3 in Resources */,
+				1F1419311F8CB930004FB321 /* тыква_1.mp3 in Resources */,
+				1F1419851F8CB930004FB321 /* ананас_1.mp3 in Resources */,
 				1F9E382C1F3F4BCA008FFF4F /* animals.xcassets in Resources */,
-				1F50B6DD1F884C5A00D41398 /* г_1.mp3 in Resources */,
-				1F50B69D1F884C5A00D41398 /* вентилятор_1.mp3 in Resources */,
-				1F50B72C1F88560A00D41398 /* трактор_1.mp3 in Resources */,
-				1F50B6F11F884C5A00D41398 /* ц_1.mp3 in Resources */,
+				1F1419371F8CB930004FB321 /* 4_1.mp3 in Resources */,
+				1F14197F1F8CB930004FB321 /* пианино_1.mp3 in Resources */,
+				1F14196A1F8CB930004FB321 /* пылесос_1.mp3 in Resources */,
+				1F14194C1F8CB930004FB321 /* майка_1.mp3 in Resources */,
+				1F1419931F8CB930004FB321 /* мандарин_1.mp3 in Resources */,
+				1F1419501F8CB930004FB321 /* сапоги_1.mp3 in Resources */,
+				1F1418F71F8CB92F004FB321 /* лев_1.mp3 in Resources */,
+				1F14193C1F8CB930004FB321 /* 9_1.mp3 in Resources */,
+				1F1419321F8CB930004FB321 /* укроп_1.mp3 in Resources */,
+				1F14194D1F8CB930004FB321 /* носки_1.mp3 in Resources */,
+				1F1419581F8CB930004FB321 /* диван_1.mp3 in Resources */,
+				1F1419411F8CB930004FB321 /* комар_1.mp3 in Resources */,
+				1F1418D21F8CB92F004FB321 /* й-1_1.mp3 in Resources */,
+				1F14195B1F8CB930004FB321 /* кастрюля_1.mp3 in Resources */,
+				1F14197A1F8CB930004FB321 /* арфа_1.mp3 in Resources */,
+				1F1418ED1F8CB92F004FB321 /* ежик_1.mp3 in Resources */,
+				1F1418D11F8CB92F004FB321 /* и_1.mp3 in Resources */,
+				1F1419621F8CB930004FB321 /* ложка_1.mp3 in Resources */,
+				1F1419471F8CB930004FB321 /* таракан_1.mp3 in Resources */,
+				1F14191C1F8CB930004FB321 /* звезда_1.mp3 in Resources */,
+				1F14193A1F8CB930004FB321 /* 7_1.mp3 in Resources */,
 				1F22B6211F83CB8400629C1D /* photoPhotos.xcassets in Resources */,
-				1F22B6361F83CEDC00629C1D /* 8_1.mp3 in Resources */,
-				1F50B6A01F884C5A00D41398 /* диван_1.mp3 in Resources */,
-				1F50B6D41F884C5A00D41398 /* овал_1.mp3 in Resources */,
+				1F14190F1F8CB930004FB321 /* цыпленок_1.mp3 in Resources */,
+				1F1419291F8CB930004FB321 /* кукуруза_1.mp3 in Resources */,
+				1F1419341F8CB930004FB321 /* 1_1.mp3 in Resources */,
+				1F1419B11F8CB930004FB321 /* садовник_1.mp3 in Resources */,
+				1F14195D1F8CB930004FB321 /* кран_1.mp3 in Resources */,
+				1F1418F01F8CB92F004FB321 /* зебра_1.mp3 in Resources */,
+				1F1418DE1F8CB92F004FB321 /* х_1.mp3 in Resources */,
 				1FEB53501F426F3400257447 /* Insects.xcassets in Resources */,
-				1F22B6371F83CEDC00629C1D /* 9_1.mp3 in Resources */,
+				1F1418F61F8CB92F004FB321 /* курица_1.mp3 in Resources */,
+				1F14191E1F8CB930004FB321 /* круг_1.mp3 in Resources */,
+				1F1418EF1F8CB92F004FB321 /* заяц_1.mp3 in Resources */,
+				1F1419591F8CB930004FB321 /* зонт_1.mp3 in Resources */,
+				1F1418D91F8CB92F004FB321 /* р_1.mp3 in Resources */,
+				1F1419B51F8CBBBD004FB321 /* обезьяна_1.mp3 in Resources */,
+				1F1419131F8CB930004FB321 /* желтый_1.mp3 in Resources */,
 				1F2921291F7EDD1300CAB0C9 /* clothes.xcassets in Resources */,
-				1F50B7231F88560A00D41398 /* корабль_1.mp3 in Resources */,
-				1F50B6FC1F884C5A00D41398 /* кабачок_1.mp3 in Resources */,
-				1F50B69E1F884C5A00D41398 /* вилка_1.mp3 in Resources */,
+				1F14191F1F8CB930004FB321 /* овал_1.mp3 in Resources */,
+				1F1418F11F8CB92F004FB321 /* кит_1.mp3 in Resources */,
+				1F1419431F8CB930004FB321 /* муравей_1.mp3 in Resources */,
 				1F33E01E1F7BEA490068829D /* instrumentsPhoto.xcassets in Resources */,
-				1F50B6B91F884C5A00D41398 /* тарелка_1.mp3 in Resources */,
-				1F50B69C1F884C5A00D41398 /* ванна_1.mp3 in Resources */,
-				1F50B6E21F884C5A00D41398 /* з_1.mp3 in Resources */,
-				1F50B7251F88560A00D41398 /* мотоцикл_1.mp3 in Resources */,
-				1F50B6F31F884C5A00D41398 /* ш_1.mp3 in Resources */,
-				1F50B7241F88560A00D41398 /* легковой автомобиль_1.mp3 in Resources */,
-				1F50B6EE1F884C5A00D41398 /* у_1.mp3 in Resources */,
-				1F50B6211F88435F00D41398 /* желтый_1.mp3 in Resources */,
-				1F50B7071F884C5A00D41398 /* тыква_1.mp3 in Resources */,
-				1F50B7221F88560A00D41398 /* грузовик_1.mp3 in Resources */,
-				1F50B6FF1F884C5A00D41398 /* кукуруза_1.mp3 in Resources */,
-				1F50B6F61F884C5A00D41398 /* ы_1.mp3 in Resources */,
-				1F50B6B51F884C5A00D41398 /* стакан_1.mp3 in Resources */,
-				1F50B7201F88560A00D41398 /* вертолет_1.mp3 in Resources */,
-				1F50B7011F884C5A00D41398 /* морковь_1.mp3 in Resources */,
-				1F22B62E1F83CEDC00629C1D /* 10_1.mp3 in Resources */,
-				1F22B6321F83CEDC00629C1D /* 4_1.mp3 in Resources */,
-				1F50B6221F88435F00D41398 /* зеленый_1.mp3 in Resources */,
-				1F50B70B1F8854FA00D41398 /* ё-1_1.mp3 in Resources */,
+				1F1418D41F8CB92F004FB321 /* л_1.mp3 in Resources */,
+				1F1419061F8CB92F004FB321 /* птица_1.mp3 in Resources */,
+				1F1419121F8CB930004FB321 /* голубой_1.mp3 in Resources */,
+				1F1419531F8CB930004FB321 /* юбка_1.mp3 in Resources */,
+				1F1419691F8CB930004FB321 /* полотенца_1.mp3 in Resources */,
+				1F1419761F8CB930004FB321 /* холодильник_1.mp3 in Resources */,
+				1F1419751F8CB930004FB321 /* фен_1.mp3 in Resources */,
+				1F1419AB1F8CB930004FB321 /* космонафт_1.mp3 in Resources */,
+				1F1419A91F8CB930004FB321 /* дворник_1.mp3 in Resources */,
+				1F1419941F8CB930004FB321 /* персик_1.mp3 in Resources */,
+				1F1419811F8CB930004FB321 /* скрипка_1.mp3 in Resources */,
+				1F1419021F8CB92F004FB321 /* панда_1.mp3 in Resources */,
+				1F14192B1F8CB930004FB321 /* морковь_1.mp3 in Resources */,
+				1F1419861F8CB930004FB321 /* апельсин_1.mp3 in Resources */,
+				1F1419A81F8CB930004FB321 /* экскаватор_1.mp3 in Resources */,
+				1F1418D51F8CB92F004FB321 /* м_1.mp3 in Resources */,
+				1F1419141F8CB930004FB321 /* зеленый_1.mp3 in Resources */,
 				1F305E9F1F43CDFB00AB4757 /* photoInsects.xcassets in Resources */,
-				1F50B6FA1F884C5A00D41398 /* я_1.mp3 in Resources */,
+				1F1419A01F8CB930004FB321 /* мотоцикл_1.mp3 in Resources */,
+				1F1418CB1F8CB92F004FB321 /* г_1.mp3 in Resources */,
+				1F1419171F8CB930004FB321 /* оранжевый_1.mp3 in Resources */,
+				1F14194F1F8CB930004FB321 /* платье_1.mp3 in Resources */,
+				1F1418D31F8CB92F004FB321 /* к_1.mp3 in Resources */,
+				1F1419001F8CB92F004FB321 /* овца_1.mp3 in Resources */,
+				1F14197C1F8CB930004FB321 /* барабан_1.mp3 in Resources */,
+				1F1419261F8CB930004FB321 /* кабачок_1.mp3 in Resources */,
+				1F1419491F8CB930004FB321 /* варежки_1.mp3 in Resources */,
+				1F26D5D41F9046BE0020B41F /* bukvyPhoto.xcassets in Resources */,
+				1F1419701F8CB930004FB321 /* стул_1.mp3 in Resources */,
+				1F14191D1F8CB930004FB321 /* квадрат_1.mp3 in Resources */,
+				1F14196D1F8CB930004FB321 /* стакан_1.mp3 in Resources */,
+				1F1419281F8CB930004FB321 /* картофель_1.mp3 in Resources */,
 				1F1CC0521F3A29CD00E920CA /* Assets.xcassets in Resources */,
-				1F50B72B1F88560A00D41398 /* скорая помощь_1.mp3 in Resources */,
-				1F50B6A21F884C5A00D41398 /* зубная щетка_1.mp3 in Resources */,
-				1F50B6BC1F884C5A00D41398 /* утюг_1.mp3 in Resources */,
-				1F22B6331F83CEDC00629C1D /* 5_1.mp3 in Resources */,
-				1F50B6BF1F884C5A00D41398 /* чайник_1.mp3 in Resources */,
-				1F50B6A81F884C5A00D41398 /* кружка_1.mp3 in Resources */,
-				1F50B6AB1F884C5A00D41398 /* микроволновая печь_1.mp3 in Resources */,
-				1F50B6AA1F884C5A00D41398 /* ложка_1.mp3 in Resources */,
-				1F50B6271F88435F00D41398 /* синий_1.mp3 in Resources */,
-				1F50B72F1F8856DF00D41398 /* пожарная машина_1.mp3 in Resources */,
-				1F50B6A91F884C5A00D41398 /* лампа_1.mp3 in Resources */,
-				1F50B6BD1F884C5A00D41398 /* фен_1.mp3 in Resources */,
-				1F50B6EA1F884C5A00D41398 /* п_1.mp3 in Resources */,
-				1F50B6B01F884C5A00D41398 /* поварешки_1.mp3 in Resources */,
-				1F50B6E61F884C5A00D41398 /* л_1.mp3 in Resources */,
-				1F50B72D1F88560A00D41398 /* экскаватор_1.mp3 in Resources */,
-				1F50B6231F88435F00D41398 /* коричневый_1.mp3 in Resources */,
-				1F50B6A61F884C5A00D41398 /* кресло_1.mp3 in Resources */,
-				1F50B7061F884C5A00D41398 /* свекла_1.mp3 in Resources */,
-				1F50B7081F884C5A00D41398 /* укроп_1.mp3 in Resources */,
-				1F50B6D11F884C5A00D41398 /* звезда_1.mp3 in Resources */,
-				1F50B6DF1F884C5A00D41398 /* е_1.mp3 in Resources */,
-				1F50B6A11F884C5A00D41398 /* зонт_1.mp3 in Resources */,
-				1F50B6A51F884C5A00D41398 /* кран_1.mp3 in Resources */,
-				1F50B6F41F884C5A00D41398 /* щ_1.mp3 in Resources */,
-				1F50B6FE1F884C5A00D41398 /* картофель_1.mp3 in Resources */,
-				1F50B7021F884C5A00D41398 /* огурец_1.mp3 in Resources */,
-				1F50B6291F88435F00D41398 /* черный_1.mp3 in Resources */,
-				1F22B6351F83CEDC00629C1D /* 7_1.mp3 in Resources */,
-				1F50B71F1F88560A00D41398 /* велосипед_1.mp3 in Resources */,
-				1F50B6EC1F884C5A00D41398 /* с_1.mp3 in Resources */,
-				1F22B6341F83CEDC00629C1D /* 6_1.mp3 in Resources */,
-				1F50B6D21F884C5A00D41398 /* квадрат_1.mp3 in Resources */,
 				1F2921801F7EE24F00CAB0C9 /* home.xcassets in Resources */,
-				1F50B6D81F884C5A00D41398 /* трапеция_1.mp3 in Resources */,
-				1F50B6BA1F884C5A00D41398 /* телефон_1.mp3 in Resources */,
-				1F50B6F71F884C5A00D41398 /* ь_1.mp3 in Resources */,
+				1F1419841F8CB930004FB321 /* абрикос_1.mp3 in Resources */,
+				1F14190B1F8CB930004FB321 /* сова_1.mp3 in Resources */,
+				1F1419981F8CB930004FB321 /* яблоко_1.mp3 in Resources */,
+				1F1418EC1F8CB92F004FB321 /* дельфин_1.mp3 in Resources */,
+				1F1419AC1F8CB930004FB321 /* повар_1.mp3 in Resources */,
+				1F1418F81F8CB92F004FB321 /* леопард_1.mp3 in Resources */,
+				1F1419681F8CB930004FB321 /* поварешки_1.mp3 in Resources */,
+				1F14190C1F8CB930004FB321 /* тигр_1.mp3 in Resources */,
+				1F1419101F8CB930004FB321 /* черепаха_1.mp3 in Resources */,
+				1F1419251F8CB930004FB321 /* баклажан_1.mp3 in Resources */,
+				1F14192A1F8CB930004FB321 /* лук_1.mp3 in Resources */,
 				1F1CC04D1F3A29CD00E920CA /* Main.storyboard in Resources */,
-				1F50B6F51F884C5A00D41398 /* ъ_1.mp3 in Resources */,
-				1F22B6311F83CEDC00629C1D /* 3_1.mp3 in Resources */,
-				1F50B6ED1F884C5A00D41398 /* т_1.mp3 in Resources */,
-				1F50B6AE1F884C5A00D41398 /* ножницы_1.mp3 in Resources */,
-				1F50B6B71F884C5A00D41398 /* стол_1.mp3 in Resources */,
+				1F14194E1F8CB930004FB321 /* обувь_1.mp3 in Resources */,
+				1F1419A31F8CB930004FB321 /* полицейская машина_1.mp3 in Resources */,
+				1F1418E91F8CB92F004FB321 /* акула_1.mp3 in Resources */,
+				1F1419571F8CB930004FB321 /* дверь_1.mp3 in Resources */,
 				1FEB53C61F427B3A00257447 /* numbers.xcassets in Resources */,
-				1F50B7261F88560A00D41398 /* поезд_1.mp3 in Resources */,
-				1F50B6AD1F884C5A00D41398 /* нож_1.mp3 in Resources */,
-				1F50B7281F88560A00D41398 /* полицейская машина_1.mp3 in Resources */,
-				1F50B6B41F884C5A00D41398 /* сковорода_1.mp3 in Resources */,
-				1F50B6F91F884C5A00D41398 /* ю_1.mp3 in Resources */,
-				1F50B6E91F884C5A00D41398 /* о_1.mp3 in Resources */,
-				1F50B6A41F884C5A00D41398 /* компьютер_1.mp3 in Resources */,
-				1F50B6DE1F884C5A00D41398 /* д_1.mp3 in Resources */,
-				1F50B6B31F884C5A00D41398 /* ручка_1.mp3 in Resources */,
-				1F50B6E31F884C5A00D41398 /* и_1.mp3 in Resources */,
-				1F50B6D91F884C5A00D41398 /* треугольник_1.mp3 in Resources */,
-				1F50B6B21F884C5A00D41398 /* пылесос_1.mp3 in Resources */,
-				1F50B70C1F8854FA00D41398 /* й-1_1.mp3 in Resources */,
-				1F50B6C01F884C5A00D41398 /* часы_1.mp3 in Resources */,
-				1F50B7041F884C5A00D41398 /* помидор_1.mp3 in Resources */,
-				1F22B62F1F83CEDC00629C1D /* 1_1.mp3 in Resources */,
+				1F14196E1F8CB930004FB321 /* стиральная машина_1.mp3 in Resources */,
+				1F14198A1F8CB930004FB321 /* вишня_1.mp3 in Resources */,
+				1F1419B21F8CB930004FB321 /* учитель_1.mp3 in Resources */,
+				1F1418FD1F8CB92F004FB321 /* мышь_1.mp3 in Resources */,
 				1FEB53C81F427B4500257447 /* Vegetables.xcassets in Resources */,
-				1F50B6B81F884C5A00D41398 /* стул_1.mp3 in Resources */,
-				1F50B6AF1F884C5A00D41398 /* плита_1.mp3 in Resources */,
-				1F50B6D51F884C5A00D41398 /* полукруг_1.mp3 in Resources */,
+				1F1419361F8CB930004FB321 /* 3_1.mp3 in Resources */,
+				1F1419211F8CB930004FB321 /* прямоугольник_1.mp3 in Resources */,
+				1F1418D81F8CB92F004FB321 /* п_1.mp3 in Resources */,
+				1F1418DC1F8CB92F004FB321 /* у_1.mp3 in Resources */,
+				1F1418EB1F8CB92F004FB321 /* верблюд_1.mp3 in Resources */,
+				1F1418E71F8CB92F004FB321 /* ю_1.mp3 in Resources */,
+				1F14192C1F8CB930004FB321 /* огурец_1.mp3 in Resources */,
+				1F1419461F8CB930004FB321 /* стрекоза_1.mp3 in Resources */,
+				1F1418C81F8CB92F004FB321 /* а_1.mp3 in Resources */,
+				1F14190A1F8CB930004FB321 /* собака_1.mp3 in Resources */,
+				1F1419A11F8CB930004FB321 /* поезд_1.mp3 in Resources */,
 				1F33E01C1F7BEA0C0068829D /* fruitPhotos.xcassets in Resources */,
-				1F50B6E11F884C5A00D41398 /* ж_1.mp3 in Resources */,
-				1F50B7001F884C5A00D41398 /* лук_1.mp3 in Resources */,
-				1F50B71E1F88560A00D41398 /* автобус_1.mp3 in Resources */,
-				1F50B6F81F884C5A00D41398 /* э_1.mp3 in Resources */,
+				1F1419921F8CB930004FB321 /* малина_1.mp3 in Resources */,
+				1F1419A71F8CB930004FB321 /* трактор_1.mp3 in Resources */,
+				1F1419271F8CB930004FB321 /* капуста_1.mp3 in Resources */,
+				1F1419511F8CB930004FB321 /* свитер_1.mp3 in Resources */,
+				1F1419351F8CB930004FB321 /* 2_1.mp3 in Resources */,
 				1F1D27E81F658BEF00AF6D61 /* menu.xcassets in Resources */,
-				1F50B6DC1F884C5A00D41398 /* в_1.mp3 in Resources */,
+				1F14199D1F8CB930004FB321 /* грузовик_1.mp3 in Resources */,
+				1F1419AE1F8CB930004FB321 /* полицейский_1.mp3 in Resources */,
+				1F14193E1F8CB930004FB321 /* богомол_1.mp3 in Resources */,
+				1F1418FA1F8CB92F004FB321 /* лошадь_1.mp3 in Resources */,
+				1F1419951F8CB930004FB321 /* слива_1.mp3 in Resources */,
+				1F14197D1F8CB930004FB321 /* гитара_1.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

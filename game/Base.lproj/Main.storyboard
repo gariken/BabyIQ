@@ -21,8 +21,17 @@
                     <view key="view" contentMode="scaleToFill" id="Jcp-d0-CVE">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView autoresizesSubviews="NO" opaque="NO" clearsContextBeforeDrawing="NO" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="жук коллорадский" translatesAutoresizingMaskIntoConstraints="NO" id="brI-iJ-xqr">
+                                <rect key="frame" x="137" y="283" width="100" height="100"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
+                    <connections>
+                        <outlet property="theImage" destination="brI-iJ-xqr" id="edN-Q1-9oQ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JNS-31-lZ7" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -183,7 +192,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5Pd-qL-aQO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1193" y="-572"/>
+            <point key="canvasLocation" x="1192.8" y="-572.56371814092961"/>
         </scene>
         <!--Two View Controller-->
         <scene sceneID="WtI-0w-fiq">
@@ -371,14 +380,14 @@
                                 </imageView>
                                 <cells>
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="theCell" id="dFp-F0-2j0" customClass="CollectionViewCell" customModule="game" customModuleProvider="target">
-                                        <rect key="frame" x="13" y="112" width="165" height="132"/>
+                                        <rect key="frame" x="13" y="112" width="165" height="135"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
-                                            <rect key="frame" x="0.0" y="0.0" width="165" height="132"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="165" height="135"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <view alpha="0.5" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Vr5-Hp-31U" customClass="CustomView" customModule="game" customModuleProvider="target">
-                                                    <rect key="frame" x="0.0" y="0.0" width="165" height="132"/>
+                                                    <rect key="frame" x="0.0" y="0.0" width="164" height="133"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <color key="backgroundColor" red="0.99989169836044312" green="1" blue="0.99988096952438354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <userDefinedRuntimeAttributes>
@@ -387,13 +396,13 @@
                                                         </userDefinedRuntimeAttribute>
                                                     </userDefinedRuntimeAttributes>
                                                 </view>
-                                                <imageView autoresizesSubviews="NO" opaque="NO" clearsContextBeforeDrawing="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lbp-GW-F55">
-                                                    <rect key="frame" x="36" y="16" width="100" height="100"/>
+                                                <imageView autoresizesSubviews="NO" opaque="NO" clearsContextBeforeDrawing="NO" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lbp-GW-F55">
+                                                    <rect key="frame" x="28" y="14" width="109" height="106"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </imageView>
                                             </subviews>
                                         </view>
-                                        <size key="customSize" width="165" height="132"/>
+                                        <size key="customSize" width="165" height="135"/>
                                         <connections>
                                             <outlet property="imageCollection" destination="lbp-GW-F55" id="QWO-bd-9hs"/>
                                         </connections>
@@ -443,7 +452,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="G38-vL-aEh" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1192.8" y="138.98050974512745"/>
+            <point key="canvasLocation" x="1252" y="139"/>
         </scene>
         <!--Photo View Controller-->
         <scene sceneID="nv1-Yq-Ale">
@@ -488,6 +497,7 @@
         <image name="геометрические фигуры" width="119" height="119"/>
         <image name="дом" width="119" height="119"/>
         <image name="животные" width="119" height="119"/>
+        <image name="жук коллорадский" width="94" height="65"/>
         <image name="музыка" width="119" height="119"/>
         <image name="насекомые" width="119" height="119"/>
         <image name="овощи" width="119" height="119"/>

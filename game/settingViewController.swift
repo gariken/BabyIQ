@@ -10,8 +10,10 @@ import UIKit
 
 class settingViewController: UIViewController {
 
+    @IBOutlet weak var theImage: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
+    
     }
 
   
